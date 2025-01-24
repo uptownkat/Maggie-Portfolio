@@ -9,5 +9,4 @@ Welcome to my portfolio showcasing my skills in SQL, Python, Power BI, Tableau, 
 
 ## Contact
 [LinkedIn](https://linkedin.com/in/maggierhee212) | [Portfolio](https://github.com/uptownkat/Maggie-Portfolio)
-# Maggie-Portfolio
-Showcasing skills
+ 
