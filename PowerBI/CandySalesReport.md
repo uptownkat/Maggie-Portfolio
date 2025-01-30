@@ -33,3 +33,7 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 - **Dashboard Screenshot:**  
   ![candysales](https://github.com/user-attachments/assets/a16bc37a-f565-40d2-bf28-934d4b39a826)
 werBI/Screenshot 1.png)  
+![candytrends](https://github.com/user-attachments/assets/55592a6a-67dc-4c25-92e1-4e46a456cb46)
+
+![candyretail](https://github.com/user-attachments/assets/0250fb8f-5150-4cfb-a4da-2bfd0f8e0e0f)
+
