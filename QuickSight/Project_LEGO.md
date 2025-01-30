@@ -31,13 +31,10 @@ using Python (pandas). This project is a fruitful exercise of descriptive analys
  
 
 ### 📂 Files  
-- **Python:** Cleaned and Transformed Dataset using Pandas
+**Python:** Cleaned and Transformed Dataset using Pandas
+- [Kaggle Link](https://www.kaggle.com/code/maggieakarn/lego-cleaning-dataframe-pandas)
 
-
-    [Kaggle Notebook - Data Prep](https://www.kaggle.com/code/maggieakarn/lego-cleaning-dataframe- 
-  pandas)
-
-    [Git Link](Python/lego-cleaning-dataframe-pandas.ipynb)
+- [Git Link](Python/lego-cleaning-dataframe-pandas.ipynb)
 
 
 - **Quicksight:** Analysis and Visualization using AWS Quicksight 
