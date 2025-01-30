@@ -9,14 +9,14 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 - **Store** (StoreID, StoreName, City)
 
 
-## 🔍 Key Insights  
+### 🔍 Key Insights  
 - Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
 - Sales & Profit by Candy Category
 - Monthly Sales Trend (Revenue & Quantity)
 - Line & Clustered Column Chart: Profit vs. Revenue Over Time
 - Store performance across cities (Most quantity, highest revenue)
 
-## 📊 Visualizations in Power BI
+### 📊 Visualizations in Power BI
 - KPI Card
 - Multi-row Card
 - Bar Chart
@@ -28,8 +28,10 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 - Slicer
  
 
-## 📂 Files  
-- **Power BI File:** [CandySales.pbix](CandySales.pbix)  
+### 📂 Files  
+- **Power BI File:** [CandySales.pbix](CandySales.pbix)
+
+### 📊 Report
  
  
 ![candy_dash](https://github.com/user-attachments/assets/55e20671-7761-4512-9b14-1c3233c9a104)
