@@ -3,8 +3,8 @@
 Welcome to my portfolio showcasing my skills executing different analysis with my proficiencies in SQL, Python, Power BI, Tableau, and AWS QuickSight. 
 
 ## 🔹 Descriptive Analysis  
-- [Candy Sales Dashboard (Power BI)](PowerBI/CandySales.md)
- 
+- [Candy Sales Dashboard (Power BI)](PowerBI/CandySalesReport.md)
+  
 ## 🔹 Descriptive Analysis  
 - [Candy Sales Dashboard (Power BI)](PowerBI/CandySales.md)  
 - [Retail Sales Insights (Tableau)](Tableau/RetailSales.md)  
