@@ -30,6 +30,7 @@ using Python (pandas). This project is a perfect example of a descriptive analys
 
 ### 📂 Files  
 - **Python** Cleaned and Transformed Dataset using Pandas
+- [Kaggle Notebook - Data Prep](https://www.kaggle.com/code/maggieakarn/lego-cleaning-dataframe-pandas)
 - **Quicksight:** Analysis and Visualization using AWS Quicksight 
 
 ### 📊 Report
