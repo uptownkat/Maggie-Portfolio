@@ -18,7 +18,7 @@ using Python (pandas). This project is a fruitful exercise of descriptive analys
 - Key Targets based on age groups 
  
 
-### 📊 Visualizations in Power BI
+### 📊 Visualizations in QuickSight
 - KPI Card
 - Multi-row Card
 - Bar Chart
