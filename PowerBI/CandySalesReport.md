@@ -3,10 +3,9 @@
 ## 📊 Overview  
 I used Power BI to analyze sales data on candy sales at retail in various California market with insights on revenue and profits, identifies trends, and performance on stores across different cities. analyzes historical candy sales, identifying trends in revenue, profit, and store performance.   
 
-## 📊 Data Sets (4 Tables)  
+## 📊 Datasets
 - **Sales** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
 - **Product** (ProductID, CategoryID, Cost, Price)
-- **City**(City, Long, Lat)
 - **Store** (StoreID, StoreName, City)
 
 
