@@ -11,23 +11,22 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 
 
 ## 🔍 Key Insights  
-Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
-Sales & Profit by Candy Category
-Monthly Sales Trend (Revenue & Quantity)
-Line & Clustered Column Chart: Profit vs. Revenue Over Time
-Store performance across cities (Most quantity, highest revenue)
+- Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
+- Sales & Profit by Candy Category
+- Monthly Sales Trend (Revenue & Quantity)
+- Line & Clustered Column Chart: Profit vs. Revenue Over Time
+- Store performance across cities (Most quantity, highest revenue)
 
 ## Visualizations in Power BI
-KPI Card
-Multi-row Card
-Bar Chart
-Line Chart
-Waterfall Chart
-Stacked Bar Chart
-Waterfall Chart
-Line and Clustered Column Chart
+- KPI Card
+- Multi-row Card
+- Bar Chart
+- Line Chart
+- Waterfall Chart
+- Stacked Bar Chart
+- Waterfall Chart
+- Line and Clustered Column Chart
  
-
 
 ## 📂 Files  
 - **Power BI File:** [CandySales.pbix](CandySales.pbix)  
