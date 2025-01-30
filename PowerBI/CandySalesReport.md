@@ -25,11 +25,12 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 - Stacked Bar Chart
 - Waterfall Chart
 - Line and Clustered Column Chart
+- Slicer
  
 
 ## 📂 Files  
 - **Power BI File:** [CandySales.pbix](CandySales.pbix)  
-- **Dashboard Screenshot:**
+ 
  
 ![candy_dash](https://github.com/user-attachments/assets/55e20671-7761-4512-9b14-1c3233c9a104)
 
