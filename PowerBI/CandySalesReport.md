@@ -31,9 +31,9 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 ## 📂 Files  
 - **Power BI File:** [CandySales.pbix](CandySales.pbix)  
 - **Dashboard Screenshot:**
-![1](https://github.com/user-attachments/assets/303dc938-b75a-46a4-9cf4-73a49a06867d)
-![2](https://github.com/user-attachments/assets/fbec9fc6-bcba-4181-b18a-6172bfa98f35)
-![3](https://github.com/user-attachments/assets/508eedef-73a5-4cb5-927a-c2bf920fc5e5)
+ 
+![candy_dash](https://github.com/user-attachments/assets/55e20671-7761-4512-9b14-1c3233c9a104)
 
+![candy_dash2](https://github.com/user-attachments/assets/8fcaa277-b781-4862-a92c-3a340d1bea24)
 
-
+![candy_dash3](https://github.com/user-attachments/assets/d3971860-bdf9-4504-9589-e7a3f57bbf62)
