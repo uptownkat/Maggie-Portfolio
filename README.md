@@ -4,8 +4,7 @@ Welcome to my portfolio showcasing my skills executing different analysis with m
 
 ## 🔹 Descriptive Analysis  
 - [Candy Sales Dashboard (Power BI)](PowerBI/CandySalesReport.md)
-- Lego Products
- )  
+
 
 ## 🔹 Diagnostic Analysis  
 - [Customer Churn Analysis (Python)](Python/ChurnAnalysis.md)  
