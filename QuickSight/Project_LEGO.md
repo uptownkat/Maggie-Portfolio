@@ -29,7 +29,8 @@ using Python (pandas). This project is a perfect example of a descriptive analys
  
 
 ### 📂 Files  
-- **Power BI File:** [CandySales.pbix](CandySales.pbix)
+- **Python** Cleaned and Transformed Dataset using Pandas
+- **Quicksight:** Analysis and Visualization using AWS Quicksight 
 
 ### 📊 Report
  
