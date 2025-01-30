@@ -2,19 +2,21 @@
 
 Overview  
 Using Amazon Quicksight, I create a LEGO interactive dashboard that explore thousands of sets released by the company from 1970 to 2022. I started with cleaning and preparing the data  
-using Python (pandas). This project is a perfect example of a descriptive analysis sharing insights on ....
+using Python (pandas). This project is a fruitful exercise of descriptive analysis using these tools.
 
 ### 🔢 Datasets
 - **Lego-dataset** 11 columns, 18,457 rows 
-[Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset) 
- 
+[Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
 
-### 🔍 Key Insights  
-- Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
-- Sales & Profit by Candy Category
-- Monthly Sales Trend (Revenue & Quantity)
-- Line & Clustered Column Chart: Profit vs. Revenue Over Time
-- Store performance across cities (Most quantity, highest revenue)
+### 🔍 Analysis  
+- Trend over Time
+- Distribution of Prices
+- Relationship between Set Group/Categories and prices
+- Relationship between size of sets (pieces) and prices
+- Highest-priced set
+- Popularity over time
+- Key Targets based on age groups 
+ 
 
 ### 📊 Visualizations in Power BI
 - KPI Card
