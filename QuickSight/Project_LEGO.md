@@ -1,6 +1,6 @@
 ## 🟥 Lego Dashboard – Descriptive Analysis  
 
-#Overview  
+Overview  
 Using Amazon Quicksight, I create a LEGO interactive dashboard that explore thousands of sets released by the company from 1970 to 2022. I started with cleaning and preparing the data  
 using Python (pandas). This project is a perfect example of a descriptive analysis sharing insights on ....
 
