@@ -11,4 +11,5 @@ This Power BI report analyzes historical candy sales, identifying trends in reve
 ## 📂 Files  
 - **Power BI File:** [CandySales.pbix](CandySales.pbix)  
 - **Dashboard Screenshot:**  
-  [Candy Sales Dashboard](PowerBI/Screenshot 1.png)  
+  ![candysales](https://github.com/user-attachments/assets/a16bc37a-f565-40d2-bf28-934d4b39a826)
+werBI/Screenshot 1.png)  
