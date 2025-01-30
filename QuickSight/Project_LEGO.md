@@ -6,7 +6,7 @@ using Python (pandas). This project is a perfect example of a descriptive analys
 
 ### 🔢 Datasets
 - **Lego-dataset** 11 columns, 18,457 rows 
-[Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
+[Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset) 
  
 
 ### 🔍 Key Insights  
