@@ -1,4 +1,4 @@
-🟥 Lego Dashboard – Descriptive Analysis  
+## 🟥 Lego Dashboard – Descriptive Analysis  
 
 #Overview  
 Using Amazon Quicksight, I create a LEGO interactive dashboard that explore thousands of sets released by the company from 1970 to 2022. I started with cleaning and preparing the data  
