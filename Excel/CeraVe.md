@@ -1,4 +1,4 @@
-![Screenshot 2025-01-31 at 5 06 41 PM](https://github.com/user-attachments/assets/6af979ec-08bd-400d-9758-8ec2c85ffe63)
+ ![Screenshot 2025-01-31 at 5 08 59 PM](https://github.com/user-attachments/assets/dfd19771-1c15-4672-b24e-bdce8748c4a0)
 
 ## CeraVe e-Commerce 
 ### Overview  
