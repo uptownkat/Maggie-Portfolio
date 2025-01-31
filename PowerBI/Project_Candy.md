@@ -1,7 +1,11 @@
-   ![Uploading Screenshot 2025-01-31 at 4.56.27 PM.png…]()
-# Candy Sales Dashboard – Descriptive Analysis
 
-## Overview  
+![Screenshot 2025-01-31 at 4 56 27 PM](https://github.com/user-attachments/assets/8f396ef7-d2bc-4dc4-bb09-ff2e8c5e58ab)
+
+
+
+## Candy Sales Dashboard – Descriptive Analysis
+
+### Overview  
 I used Power BI to analyze sales data on candy sales at retail in various California market with insights on revenue and profits, identifies trends, and performance on stores across different cities. analyzes historical candy sales, identifying trends in revenue, profit, and store performance.   
 
 ### 🔢 Datasets
