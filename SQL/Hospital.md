@@ -5,10 +5,10 @@ This is a diagnostic analytics project where I analyzed hospital data using SQL 
 
 ### Challenges
 
-- **How can hospital improve patient outcomes?** 
-- **How can hospital allocate resources across different regions?**
-- **How can hospital improve preparation for volume of admissions?**
-- **How can hospital improve patient care?**
+- How can hospital improve patient outcomes? 
+- How can hospital allocate resources across different regions?
+- How can hospital improve preparation for volume of admissions?
+- How can hospital improve patient care?
  
 ‭  
 ### 🔢 Datasets
@@ -37,15 +37,6 @@ This is a diagnostic analytics project where I analyzed hospital data using SQL 
 - Common Diagnosis suffered by patients, province
 - Patient stay relationship to diagnosis, province, hospital
 - Distribution of Paitent admission by age group, province
- 
-
-
-### 📊 Visualizations in Excel
-- Pivot Table
-- Bar Chart
-- Donut Chart
-- Line Chart
-- Pie Chart
 
 
 ### 📋 Project
