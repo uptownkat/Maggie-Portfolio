@@ -1,4 +1,4 @@
-# 📊 Maggie Rhee – Data Analytics Portfolio  
+# Maggie Rhee – Data Analytics Portfolio  
 
 Welcome to my portfolio showcasing my skills executing different analysis with my proficiencies in SQL, Python, Power BI, Tableau, and AWS QuickSight. 
 
