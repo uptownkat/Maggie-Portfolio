@@ -37,9 +37,9 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 
 ### Report
  
+ ![1738363663952-0a8f269f-add9-47c9-80c9-617baba44ab0_1](https://github.com/user-attachments/assets/6bf68569-4c51-41f2-8d58-c07f554267dd)
+
+![1738363663952-0a8f269f-add9-47c9-80c9-617baba44ab0_2](https://github.com/user-attachments/assets/5154763a-904a-46e5-be04-7cb93b2234f0)
+ ![1738363663952-0a8f269f-add9-47c9-80c9-617baba44ab0_3](https://github.com/user-attachments/assets/4299e055-1338-4479-8df0-0206d31c3087)
+
  
-![candy_dash](https://github.com/user-attachments/assets/55e20671-7761-4512-9b14-1c3233c9a104)
-
-![candy_dash2](https://github.com/user-attachments/assets/8fcaa277-b781-4862-a92c-3a340d1bea24)
-
-![candy_dash3](https://github.com/user-attachments/assets/d3971860-bdf9-4504-9589-e7a3f57bbf62)
