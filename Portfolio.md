@@ -13,14 +13,11 @@ Welcome to my portfolio showcasing my skills executing different analysis with m
 ## 🔹 Predictive Analysis  
 - [Sales Forecasting Model (Python)](Python/SalesForecast.md)  
 
-## 🔹 Prescriptive Analysis  
-- [Customer Churn Analysis (Python)](Python/ChurnAnalysis.md)  
+## 🔹 Prescriptive Analysis   
 - [CeraVe E-commerce (Excel)](Excel/CeraVe.md)
 - [Superstore Sales Performance (Excel)](Excel/Superstore.md)  
 
 
-
-- [Superstore Improving Sales Performance (Excel)
 # Maggie Rhee's Data Analytics Portfolio
 
 
