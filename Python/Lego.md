@@ -6,4 +6,4 @@ This Jupyter notebook demonstrates the process of cleaning the LEGO dataset, inc
 📌 **[View the Kaggle Notebook](https://www.kaggle.com/code/maggieakarn/lego-cleaning-dataframe-pandas)
 
 
-(Python/lego-cleaning-dataframe-pandas.ipynb)
+ 
