@@ -9,14 +9,7 @@ This is a diagnostic analytics project where I analyzed hospital data using SQL 
 - **How can hospital allocate resources across different regions?**
 - **How can hospital improve preparation for volume of admissions?**
 - **How can hospital improve patient care?**
-
-Which doctors are handling the highest number of cases, and how does this affect
-patient outcomes?
-Are there any trends in patient admissions based on demographics or geographic
-location?
-What are the common diagnoses, and how can the hospital better prepare for them?
-How can we improve patient care by understanding the distribution of allergies and other
-health conditions?
+ 
 ‭  
 ### 🔢 Datasets
 
