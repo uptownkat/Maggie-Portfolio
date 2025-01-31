@@ -18,19 +18,19 @@ Importance of Solvi
 ### 🔢 Datasets
 
 -  **patients** 
-patient_ID, first_name, last_name, gender, birth-date, city, province_id, allergies, height, weight 
+(patient_ID, first_name, last_name, gender, birth-date, city, province_id, allergies, height, weight) 
 
 
-**doctors** 
--doctor_id, first_name, last_name, specialty
+- **doctors** 
+(doctor_id, first_name, last_name, specialty)
 
 
-**admissions** 
--patient_id, admission_date, discharge_date, diagnosis, attending_doctor_id
+- **admissions** 
+(patient_id, admission_date, discharge_date, diagnosis, attending_doctor_id)
 
 
-**province_names** 
-province-id, province_name
+- **province_names** 
+(province-id, province_name)
 
 
 ### Stakeholders
