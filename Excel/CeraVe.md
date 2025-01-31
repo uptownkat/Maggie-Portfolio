@@ -1,4 +1,4 @@
-# CeraVe e-Commerce - Prescriptive Analysis 
+# CeraVe e-Commerce 
 
 ## Overview  
 This was an analytics project which I completed in training course last year. The objective ‬ 
