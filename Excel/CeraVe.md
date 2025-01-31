@@ -9,13 +9,13 @@ data analytics through Excel.
 
 ‬‭The assigment would summarize key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers.
 ‭  
-### 🔢 Datasets
+### Datasets
 - **Sales** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
 - **Product** (ProductID, CategoryID, Cost, Price)
 - **Store** (StoreID, StoreName, City)
 
 
-### 🔍 Key Insights  
+### Key Insights  
 - Ranking Regions, State, Sub-regions, State on Revenue, Profit
 - Most to least profitable product category, sub-category and product.
 - Sales performance by customer segment
@@ -27,7 +27,7 @@ data analytics through Excel.
 - Average Sales by Segement
 - Monthly Sales Growth YOY
 
-### 📊 Visualizations in Excel
+### Visualizations in Excel
 - Pivot Table
 - Bar Chart
 - Donut Chart
