@@ -17,8 +17,8 @@ Importance of Solvi
 ‭  
 ### 🔢 Datasets
 
-**patients** 
--patient_ID, first_name, last_name, gender, birth-date, city, province_id, allergies, height, weight 
+-  **patients** 
+patient_ID, first_name, last_name, gender, birth-date, city, province_id, allergies, height, weight 
 
 
 **doctors** 
