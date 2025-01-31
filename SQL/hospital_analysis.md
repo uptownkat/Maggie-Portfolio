@@ -2,13 +2,12 @@
 
 ## *Profile of Patient Population* 
 
+![Screenshot 2025-01-31 at 4 19 30 PM](https://github.com/user-attachments/assets/badf0b03-ce4e-442e-91cf-1ee5e7a28536)
 
-Volume of out-patient vs. in-patient 
+![Screenshot 2025-01-31 at 4 29 13 PM](https://github.com/user-attachments/assets/e3ddceb5-0466-4bd4-b7c4-fc98fd73d8cc)
 
-![Screenshot 2025-01-31 at 4 19 30 PM](https://github.com/user-attachments/assets/4dea5812-3640-4e25-a16c-66a5a3d5efa3)
 
-![Screenshot 2025-01-31 at 4 19 30 PM](https://github.com/user-attachments/assets/c44bcaa6-66e9-4701-8e29-d899a1b5ae49)
-
+ 
 
 
 **Top Provinces with Highest Patient Admissions**
