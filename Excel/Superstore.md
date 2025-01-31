@@ -1,5 +1,5 @@
-
- ![Screenshot 2025-01-31 at 5 13 31 PM](https://github.com/user-attachments/assets/7e6777cc-4933-4326-9748-3fde602be02d)
+ 
+![Screenshot 2025-01-31 at 5 27 12 PM](https://github.com/user-attachments/assets/3b17b53f-390b-4556-a50b-5d68aa3dd770)
 
 
 ## Superstore - Sales Performance Project
