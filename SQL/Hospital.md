@@ -23,7 +23,8 @@ This is a diagnostic analytics project where I analyzed hospital data using SQL 
 (province-id, province_name)
 
 
-### Stakeholders
+###  💼Stakeholders
+
 - **Internals** 
 (Hospital Management, Medical Staff, Regional Managers)
 - **Externals** 
