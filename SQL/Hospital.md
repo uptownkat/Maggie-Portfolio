@@ -3,7 +3,7 @@
 ## Overview  
 The hospital network is facing challenges in ensuring operational efficiency and patient
 satisfaction. Specifically, you need to analyze the data to address the following questions:
-1. 2. 3. 4. 5. How can we optimize resource allocation across different regions?
+How can we optimize resource allocation across different regions?
 Which doctors are handling the highest number of cases, and how does this affect
 patient outcomes?
 Are there any trends in patient admissions based on demographics or geographic
@@ -28,7 +28,10 @@ Importance of Solvi
 
 
 ### Stakeholders
-
+- **Internals** 
+(Hospital Management, Medical Staff, Regional Managers)
+- **Externals** 
+(Patients, Health Authorities)
 
 
 ### 🔍 Key Insights  
