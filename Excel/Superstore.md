@@ -1,7 +1,7 @@
 # Superstore - Improving Sales Performance  
 
 ## Overview  
-This is a **prescriptive analytics** project I completed for a course where I was tasked to analyze Superstore sales datusing pivot tables in Excel. This analysis provided me with insights into key trends and patterns that I was able to base recommendations on strategies to improve sales performance and overall profitability. 
+This is a **prescriptive analytics** project where I was tasked to analyze Superstore sales data using pivot tables in Excel. This analysis provided insights into key trends and patterns of the company's performance from which I based recommendations on strategies to improve profitablity, customer satisfaction and loyalty, and overall sound decisions related to overall business performance relating to both company's internal and external stakeholders, ie. sales, finance, management, customers.
 
 Stakeholder Involvement
 ● Internal Stakeholders:
