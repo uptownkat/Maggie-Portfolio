@@ -4,10 +4,8 @@
 
 ![Screenshot 2025-01-31 at 4 19 30 PM](https://github.com/user-attachments/assets/badf0b03-ce4e-442e-91cf-1ee5e7a28536)
 
-![Screenshot 2025-01-31 at 4 29 13 PM](https://github.com/user-attachments/assets/e3ddceb5-0466-4bd4-b7c4-fc98fd73d8cc)
+![Screenshot 2025-01-31 at 4 29 13 PM](https://github.com/user-attachments/assets/412e776d-0889-435e-8255-cda7bfc2a81f)
 
-
- 
 
 
 **Top Provinces with Highest Patient Admissions**
