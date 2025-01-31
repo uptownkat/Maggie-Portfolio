@@ -1,8 +1,5 @@
-
-![Screenshot 2025-01-31 at 5 20 26 PM](https://github.com/user-attachments/assets/3c45a934-f8b3-4628-8a35-a5e72eeff283)
-
-
-
+ 
+ ![Copy of bbbcb c (650 x 650 px) (650 x 300 px) (800 x 150 px) (1)](https://github.com/user-attachments/assets/ac3fdcde-c1aa-4e94-95c2-6d6b291bcfb5)
 
 ## Lego Dashboard – Descriptive Analysis  
 
