@@ -1,8 +1,12 @@
-# 🍬 Candy Sales Dashboard – Descriptive Analysis  
+# CeraVe e-Commerce - Prescriptive Analysis 
 
 ## Overview  
-I used Power BI to analyze sales data on candy sales at retail in various California market with insights on revenue and profits, identifies trends, and performance on stores across different cities. analyzes historical candy sales, identifying trends in revenue, profit, and store performance.   
-
+This was an analytics project which I completed in training course last year. The objective ‬ 
+‭was to improve user engagement and retention on CeraVe's e-commerce platform using advanced‬
+data analytics through Excel.  
+‭
+‬‭The assigment would summarize key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers.
+‭  
 ### 🔢 Datasets
 - **Sales** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
 - **Product** (ProductID, CategoryID, Cost, Price)
@@ -10,21 +14,23 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 
 
 ### 🔍 Key Insights  
-- Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
-- Sales & Profit by Candy Category
-- Monthly Sales Trend (Revenue & Quantity)
-- Line & Clustered Column Chart: Profit vs. Revenue Over Time
-- Store performance across cities (Most quantity, highest revenue)
+- Ranking Regions, State, Sub-regions, State on Revenue, Profit
+- Most to least profitable product category, sub-category and product.
+- Sales performance by customer segment
+- Average Discount by Product Category
+- Identifying Customer Lifetime Value
+- Sales Distribution by Product Category
+- Ranking customer segment and Revenue , Profit
+- Rank of state by profit
+- Average Sales by Segement
+- Monthly Sales Growth YOY
 
-### 📊 Visualizations in Power BI
-- KPI Card
-- Multi-row Card
+### 📊 Visualizations in Excel
+- Pivot Table
 - Bar Chart
+- Donut Chart
 - Line Chart
-- Waterfall Chart
-- Stacked Bar Chart
-- Waterfall Chart
-- Line and Clustered Column Chart
-- Slicer
+- Pie Chart
+ 
  
 
