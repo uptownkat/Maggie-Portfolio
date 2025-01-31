@@ -14,9 +14,10 @@ Welcome to my portfolio showcasing my skills executing different analysis with m
 - [Sales Forecasting Model (Python)](Python/SalesForecast.md)  
 
 ## 🔹 Prescriptive Analysis  
-- [CeraVe E-commerce Engagement & Retention  (AWS QuickSight)](QuickSight/InventoryOptimization.md)  
-
+- [CeraVe E-commerce (Excel)](Excel/CeraVe.md)
+-  
 # Maggie Rhee's Data Analytics Portfolio
+
 
 
 ## Contact
