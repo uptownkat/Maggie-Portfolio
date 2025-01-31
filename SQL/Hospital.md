@@ -11,7 +11,7 @@ This is a diagnostic analytics project where I analyzed hospital data using SQL 
 - How can hospital improve patient care?
  
 ‭  
-### 🔢 Datasets
+###  🔢  Datasets
 
 -  **patients** 
 (patient_ID, first_name, last_name, gender, birth-date, city, province_id, allergies, height, weight) 
@@ -23,7 +23,7 @@ This is a diagnostic analytics project where I analyzed hospital data using SQL 
 (province-id, province_name)
 
 
-###  💼Stakeholders
+###  💼 Stakeholders
 
 - **Internals** 
 (Hospital Management, Medical Staff, Regional Managers)
