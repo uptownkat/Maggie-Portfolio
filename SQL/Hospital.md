@@ -1,5 +1,5 @@
-[Screenshot 2025-01-31 at 4 51 13 PM](https://github.com/user-attachments/assets/60ff08eb-594f-4a06-826c-412f4c8b0f87)
 
+![Screenshot 2025-01-31 at 4 51 13 PM](https://github.com/user-attachments/assets/12f74564-4335-4d37-be5f-ebc121950525)
 
 # Hospital Efficiency Project 
 
