@@ -1,5 +1,9 @@
 # Hospital Efficiency Project
 
+![Screenshot 2025-01-31 at 4 29 13 PM](https://github.com/user-attachments/assets/130057e7-d5bf-4b24-9215-0655eef23374)
+
+
+
 ##      📄  Overview  
 This is a diagnostic analytics project where I analyzed hospital data using SQL to uncover patterns in patient admissions, doctor performance, and regional demographics. The analysis provided insights into operational efficiency, resource allocation, and patient outcomes. Based on these findings, I identified areas for improvement and recommended data-driven strategies to enhance patient care and optimize hospital performance.
 
