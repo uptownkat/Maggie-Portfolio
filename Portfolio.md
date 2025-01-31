@@ -18,10 +18,7 @@ Welcome to my portfolio showcasing my skills executing different analysis with m
 - [Superstore Sales Performance (Excel)](Excel/Superstore.md)  
 
 
-# Maggie Rhee's Data Analytics Portfolio
-
-
-
+ 
 ## Contact
 [LinkedIn](https://linkedin.com/in/maggierhee212) | [Portfolio](https://github.com/uptownkat/Maggie-Portfolio)
  
