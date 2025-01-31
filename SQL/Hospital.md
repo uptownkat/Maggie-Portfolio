@@ -1,21 +1,9 @@
 # Hospital Efficiency Project
 
 ## Overview  
-The hospital network is facing challenges in ensuring operational efficiency and patient
-satisfaction. Specifically, you need to analyze the data to address the following questions:
-How can we optimize resource allocation across different regions?
-Which doctors are handling the highest number of cases, and how does this affect
-patient outcomes?
-Are there any trends in patient admissions based on demographics or geographic
-location?
-What are the common diagnoses, and how can the hospital better prepare for them?
-How can we improve patient care by understanding the distribution of allergies and other
-health conditions?
-Importance of Solvi
+This is a diagnostic analytics project where I analyzed hospital data using SQL to uncover patterns in patient admissions, doctor performance, and regional demographics. The analysis provided insights into operational efficiency, resource allocation, and patient outcomes. Based on these findings, I identified areas for improvement and recommended data-driven strategies to enhance patient care and optimize hospital performance.
 
-‬‭The assigment would summarize key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers. 
-
-### Problems 
+### Challenges
 
 - **How can hospital improve patient outcomes?** 
 - **How can hospital allocate resources across different regions?**
