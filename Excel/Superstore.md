@@ -1,4 +1,4 @@
-# Superstore - Sales Performance Report 
+# Superstore - Sales Performance Project
 
 ## 📋 Overview  
 This is a **prescriptive analytics** project where I analyzed Superstore sales data using pivot tables in Excel. The analysis revealed key trends and patterns in the company’s performance, which informed recommendations aimed at improving profitability, customer satisfaction, loyalty, and overall business performance. These recommendations were designed to support decision-making across internal and external stakeholders, including sales, finance, management, and customers.
