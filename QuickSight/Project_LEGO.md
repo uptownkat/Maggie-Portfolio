@@ -1,5 +1,4 @@
- 
- ![Copy of bbbcb c (650 x 650 px) (650 x 300 px) (800 x 150 px) (1)](https://github.com/user-attachments/assets/ac3fdcde-c1aa-4e94-95c2-6d6b291bcfb5)
+ ![Screenshot 2025-01-31 at 5 25 18 PM](https://github.com/user-attachments/assets/96d75472-01ec-410b-a65e-2d94890d112d)
 
 ## Lego Dashboard – Descriptive Analysis  
 
