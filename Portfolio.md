@@ -8,7 +8,7 @@ Welcome to my portfolio showcasing my skills executing different analysis with m
 
  
 ## 🔹 Diagnostic Analysis  
-- [Customer Churn Analysis (Python)](Python/ChurnAnalysis.md)  
+- [Hospital Efficiency Project (SQL)](SQL/Hospital.md)  
 
 ## 🔹 Predictive Analysis  
 - [Sales Forecasting Model (Python)](Python/SalesForecast.md)  
