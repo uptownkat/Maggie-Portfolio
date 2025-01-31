@@ -6,7 +6,6 @@ This was an analytics project which I completed in training course last year. Th
 data analytics through Excel.  
 ‭
 
-
 ‬‭The assigment would summarize key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers.
 ‭  
 ### 🔢 Datasets
