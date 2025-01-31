@@ -1,7 +1,7 @@
 # Hospital Efficiency Project
+![hospital](https://github.com/user-attachments/assets/a39e20b4-37c6-4289-9ff7-4a69c3660537)
 
-![Screenshot 2025-01-31 at 4 29 13 PM](https://github.com/user-attachments/assets/130057e7-d5bf-4b24-9215-0655eef23374)
-
+ 
 
 
 ##      📄  Overview  
