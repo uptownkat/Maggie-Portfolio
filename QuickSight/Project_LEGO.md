@@ -1,14 +1,20 @@
-## 🟥 Lego Dashboard – Descriptive Analysis  
+
+![Screenshot 2025-01-31 at 5 20 26 PM](https://github.com/user-attachments/assets/3c45a934-f8b3-4628-8a35-a5e72eeff283)
+
+
+
+
+## Lego Dashboard – Descriptive Analysis  
 
 Overview  
 Using Amazon Quicksight, I create a LEGO interactive dashboard that explore thousands of sets released by the company from 1970 to 2022. I started with cleaning and preparing the data  
 using Python (pandas). This project is a fruitful exercise of descriptive analysis using these tools.
 
-### 🔢 Datasets
+### Datasets
 - **Lego-dataset** 11 columns, 18,457 rows 
 [Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
 
-### 🔍 Analysis  
+###  Analysis  
 - Trend over Time
 - Distribution of Prices
 - Relationship between Set Group/Categories and prices
@@ -18,7 +24,7 @@ using Python (pandas). This project is a fruitful exercise of descriptive analys
 - Key Targets based on age groups 
  
 
-### 📊 Visualizations in QuickSight
+###  Visualizations in QuickSight
 - KPI Card
 - Multi-row Card
 - Bar Chart
@@ -30,7 +36,7 @@ using Python (pandas). This project is a fruitful exercise of descriptive analys
 - Slicer
  
 
-### 📂 Files  
+###  Files  
 **Python:** Cleaned and Transformed Dataset using Pandas
 - [Kaggle Link](https://www.kaggle.com/code/maggieakarn/lego-cleaning-dataframe-pandas)
 
@@ -39,5 +45,5 @@ using Python (pandas). This project is a fruitful exercise of descriptive analys
 
 - **Quicksight:** Analysis and Visualization using AWS Quicksight 
 
-### 📊 Report
+###  Report
  
