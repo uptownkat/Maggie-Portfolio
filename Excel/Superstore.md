@@ -1,15 +1,19 @@
-# Superstore - Sales Performance Project
 
-## 📋 Overview  
+ ![Screenshot 2025-01-31 at 5 13 31 PM](https://github.com/user-attachments/assets/7e6777cc-4933-4326-9748-3fde602be02d)
+
+
+## Superstore - Sales Performance Project
+
+###  Overview  
 This is a **prescriptive analytics** project where I analyzed Superstore sales data using pivot tables in Excel. The analysis revealed key trends and patterns in the company’s performance, which informed recommendations aimed at improving profitability, customer satisfaction, loyalty, and overall business performance. These recommendations were designed to support decision-making across internal and external stakeholders, including sales, finance, management, and customers.
 
-### 🔢 Datasets
+###  Datasets
 - [Superstore Dataset](https://www.kaggle.com/datasets/maggieakarn/superstore-dataset/data) 
 - (479 Unique rows, 21 Columns)
 - OrderID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State...
  
 
-### 🔍 Key Insights  
+###   Key Insights  
 - Ranking Regions, State, Sub-regions, State on Revenue, Profit
 - Most to least profitable product category, sub-category and product.
 - Sales performance by customer segment
@@ -21,14 +25,14 @@ This is a **prescriptive analytics** project where I analyzed Superstore sales d
 - Average Sales by Segement
 - Monthly Sales Growth YOY
 
-### 📊 Visualizations in Excel
+###  Visualizations in Excel
 - Pivot Table
 - Bar Chart
 - Donut Chart
 - Line Chart
 - Pie Chart
 
-### 📉 Report
+###  Report
 
 ![1738345832083-d895c6eb-a26b-45a0-a81a-fb76467a0585_1](https://github.com/user-attachments/assets/ab905c6e-99f4-4e21-8a03-3ba84da283f3)
 ![1738345832083-d895c6eb-a26b-45a0-a81a-fb76467a0585_2](https://github.com/user-attachments/assets/76cd9e1b-8cfc-4e54-9ced-035fd329dd52)
