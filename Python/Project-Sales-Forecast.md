@@ -1,10 +1,12 @@
  
-# Sales CRM Project  
+# Sales Forecast Project  
 
 ### Overview  
-This was an analytics project which I completed in training course last year. The objective ‬ 
-‭was to improve user engagement and retention on CeraVe's e-commerce platform using advanced‬
-data analytics through Excel.  
+This project is a sales forecasting project as used by sales manager. This example is for a computer hardware company, where I used python to create an interactive chart to tract team's quarterly and year's performance and allowing for analysis of past and current sales data as well as predict future 
+performance.   
+prep, 
+pivot tables
+build dashboard.
 ‭
 
 ‬‭The assigment would summarize key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers.
