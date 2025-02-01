@@ -2,20 +2,48 @@
 
 ### **Profile of Patient Population** 
 
-
+#### Breakdown of day patients and admitted patients
 
 ![Screenshot 2025-01-31 at 4 19 30 PM](https://github.com/user-attachments/assets/badf0b03-ce4e-442e-91cf-1ee5e7a28536)
 
 ![Screenshot 2025-01-31 at 4 25 39 PM](https://github.com/user-attachments/assets/aacfcc69-bd1a-4778-a6a9-e47c47d50ea3)
 
 
-![Screenshot 2025-02-01 at 1 48 08 AM](https://github.com/user-attachments/assets/15dcf101-7164-4ce8-a460-b0f7718cfc67)
+#### Patients both day and inpatients
 
+![Screenshot 2025-02-01 at 1 48 08 AM](https://github.com/user-attachments/assets/15dcf101-7164-4ce8-a460-b0f7718cfc67)
 
 
 ![Screenshot 2025-02-01 at 1 48 19 AM](https://github.com/user-attachments/assets/6e1a9979-ca6b-4348-8cb7-71dd98bf0b93)
 
 
+#### Average weight and height by Gender 
+
+
+![Screenshot 2025-02-01 at 2 10 52 AM](https://github.com/user-attachments/assets/78fed2da-639c-41ac-b2a5-bd54be3f8afe)
+
+![Screenshot 2025-02-01 at 2 11 02 AM](https://github.com/user-attachments/assets/c1c3de8d-cbd5-4bd6-839d-42cf1db8eeca)
+
+
+
+
+#### Distribution of age group 
+
+![Screenshot 2025-02-01 at 2 22 39 AM](https://github.com/user-attachments/assets/fe875699-694f-48e4-b1d7-a6a9ab7dfd46)
+
+
+
+#### Diagnosis for inpatients
+
+
+
+
+#### allergies treated for outpatients
+
+
+
+
+#### weight/height 
 
 **Top Provinces with Highest Patient Admissions**
 
