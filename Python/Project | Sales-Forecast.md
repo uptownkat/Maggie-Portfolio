@@ -8,13 +8,13 @@ prep,
 pivot tables
 build dashboard.
 ‭
-
-‬‭The assigment would summarize key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers.
+ 
 ‭  
 ### Datasets
-- **Accounts** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
-- **Product** (ProductID, CategoryID, Cost, Price)
-- **Store** (StoreID, StoreName, City)
+- **accounts** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
+- **pipeline** (ProductID, CategoryID, Cost, Price)
+- **products** [Products Dataset](data | products.csv)
+- **teams**  
 
 
 ### Key Insights  
