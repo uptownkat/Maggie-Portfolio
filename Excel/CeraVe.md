@@ -35,7 +35,7 @@ data analytics through Excel.
 - Pie Chart
 
 
-### 📋 Project
+###  Project
 ![1738335774236-c7364972-88eb-46c4-9829-7d9af6cf29ce_1](https://github.com/user-attachments/assets/5963bca0-96fb-4406-aec5-624a104a2966)
 ![1738335774236-c7364972-88eb-46c4-9829-7d9af6cf29ce_2](https://github.com/user-attachments/assets/a71ff08a-f4af-44f4-a2de-38d6bfc414f5)
 ![1738335774236-c7364972-88eb-46c4-9829-7d9af6cf29ce_3](https://github.com/user-attachments/assets/a3528102-d252-44da-a569-815a1a7d7ed6)
