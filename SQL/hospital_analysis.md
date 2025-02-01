@@ -2,14 +2,14 @@
 
 ## **Profile of Patient Population** 
 
-####  </ins> Breakdown of day patients and admitted patients</ins> 
+####  </ins>Breakdown of day patients and admitted patients</ins> 
 
 ![Screenshot 2025-01-31 at 4 19 30 PM](https://github.com/user-attachments/assets/badf0b03-ce4e-442e-91cf-1ee5e7a28536)
 
 ![Screenshot 2025-01-31 at 4 25 39 PM](https://github.com/user-attachments/assets/aacfcc69-bd1a-4778-a6a9-e47c47d50ea3)
 
 
-####   </ins> Patients both day and inpatients</ins> 
+####   </ins>Patients both day and inpatients</ins> 
 
 ![Screenshot 2025-02-01 at 1 48 08 AM](https://github.com/user-attachments/assets/15dcf101-7164-4ce8-a460-b0f7718cfc67)
 
@@ -27,7 +27,7 @@
 
 
 
-#### Distribution of age group 
+#### </ins>Distribution of age group</ins> 
 
 ![Screenshot 2025-02-01 at 2 22 39 AM](https://github.com/user-attachments/assets/fe875699-694f-48e4-b1d7-a6a9ab7dfd46)
 
