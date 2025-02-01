@@ -1,6 +1,6 @@
 
 
-#  **Profile of Patient Population** 
+#  **Patient Profile**
 
 ####  </ins>Breakdown of day patients and admitted patients</ins> 
 
