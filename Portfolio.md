@@ -14,7 +14,7 @@ Welcome to my portfolio showcasing my skills executing different analysis with m
 
  
 ## 🔹 Diagnostic Analysis  
-- [Hospital Efficiency Project (SQL)](SQL/Hospital.md)  
+- [Hospital Efficiency Project (SQL)](SQL/hospital_analysis.md)  
 
 ## 🔹 Predictive Analysis  
 - [Sales Forecasting Model (Python)](Python/SalesForecast.md)  
