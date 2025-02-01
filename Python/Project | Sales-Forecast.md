@@ -13,7 +13,7 @@ build dashboard.
 ### Datasets
 - **accounts** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
 - **pipeline** (ProductID, CategoryID, Cost, Price)
-- **products** [Products Dataset](data | products.csv)
+- **products** [Products Dataset](Python/data | products.csv)
 - **teams**  
 
 
