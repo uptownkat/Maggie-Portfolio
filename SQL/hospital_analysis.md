@@ -1,6 +1,6 @@
 
 
-## **Profile of Patient Population** 
+#  **Profile of Patient Population** 
 
 ####  </ins>Breakdown of day patients and admitted patients</ins> 
 
@@ -44,6 +44,9 @@
 
 
 #### weight/height 
+
+
+# **Physician Profile**
 
 **Top Provinces with Highest Patient Admissions**
 
