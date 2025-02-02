@@ -86,15 +86,52 @@ Most common treated diagnosis or allergy by doctors
 ![Screenshot 2025-01-31 at 3 47 02 PM](https://github.com/user-attachments/assets/5017ae38-69f3-4a19-9216-89ab27f92f0c)
 ![Screenshot 2025-01-31 at 3 47 14 PM](https://github.com/user-attachments/assets/d69c7e8c-b748-4a7b-9591-0d779fa0f22a)
  
+# Breakdown of 2018 vs. 2019 number of admissions
 
-Most widespread allergies, diagnosis by province
-
-
-![Screenshot 2025-02-02 at 1 40 33 PM](https://github.com/user-attachments/assets/e96483ce-575c-44e5-aac0-201b161aee7e)
 ![Screenshot 2025-02-02 at 1 40 40 PM](https://github.com/user-attachments/assets/bab53d7b-00cf-45a6-99c1-8de89e35f108)
+
+# Range of months in each year,
 
 ![Screenshot 2025-02-02 at 1 24 51 PM](https://github.com/user-attachments/assets/d30ddcf0-579e-4d3e-a12f-82bf224d2d73)
 
+# Top diagnosis from admitted patients by year
+
+![Screenshot 2025-02-02 at 1 40 33 PM](https://github.com/user-attachments/assets/e96483ce-575c-44e5-aac0-201b161aee7e)
+
+T
 # Physician Profile
 
 ![Screenshot 2025-02-02 at 1 54 46 PM](https://github.com/user-attachments/assets/1dc3afd1-4374-41bb-8b5d-f8bc2b105f82)
+
+# Top Diagnosis being treated in 2018
+![Screenshot 2025-02-02 at 2 03 21 PM](https://github.com/user-attachments/assets/4900e74b-b426-4ac9-81ed-f93fda2d26e6)
+
+# Least common diagnosis treated in 2018
+
+
+
+
+
+
+![Screenshot 2025-02-02 at 2 03 38 PM](https://github.com/user-attachments/assets/b259d74d-a6dd-455c-964f-152ba8b52036)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
