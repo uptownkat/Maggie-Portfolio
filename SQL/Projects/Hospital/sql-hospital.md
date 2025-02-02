@@ -120,12 +120,16 @@ T
 
 
 
+#most common allergy being treated
+
+![Screenshot 2025-02-02 at 2 09 21 PM](https://github.com/user-attachments/assets/bdacc55f-0150-4a20-8d95-20d6f42db2a0)
 
 
 
+#Least common allergy treaetd.
 
 
-
+![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
 
 
