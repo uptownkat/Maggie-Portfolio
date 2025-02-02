@@ -131,10 +131,11 @@ T
 
 ![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
+Total number of doctors and specalteisi
 
 
 
-
+![Screenshot 2025-02-02 at 2 25 49 PM](https://github.com/user-attachments/assets/7663db3b-ea1b-4317-b773-1087fc529241)
 
 
 
