@@ -88,3 +88,13 @@ Most common treated diagnosis or allergy by doctors
  
 
 Most widespread allergies, diagnosis by province
+
+
+![Screenshot 2025-02-02 at 1 40 33 PM](https://github.com/user-attachments/assets/e96483ce-575c-44e5-aac0-201b161aee7e)
+![Screenshot 2025-02-02 at 1 40 40 PM](https://github.com/user-attachments/assets/bab53d7b-00cf-45a6-99c1-8de89e35f108)
+
+![Screenshot 2025-02-02 at 1 24 51 PM](https://github.com/user-attachments/assets/d30ddcf0-579e-4d3e-a12f-82bf224d2d73)
+
+# Physician Profile
+
+![Screenshot 2025-02-02 at 1 54 46 PM](https://github.com/user-attachments/assets/1dc3afd1-4374-41bb-8b5d-f8bc2b105f82)
