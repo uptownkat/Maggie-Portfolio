@@ -9,7 +9,7 @@
 Welcome to my portfolio showcasing my skills executing different analysis with my proficiencies in SQL, Python, Power BI, Tableau, and AWS QuickSight. 
 
 ## 🔹 Descriptive Analysis  
-- [Candy Sales Report (Power BI)](PowerBI/Project_Candy.md)
+- [Candy Sales Report (Power BI)](PowerBI/Projects/Candy Sales)
 - [LEGO Sets Dashboard (Python, QuickSight)](QuickSight/Project_LEGO.md)
 
  
