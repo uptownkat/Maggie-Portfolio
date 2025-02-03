@@ -2,7 +2,7 @@
 🔹 Shift + Enter → Moves the cursor to a new line.
 
 Other Useful DAX Shortcuts in Power BI:
--🔹 Tab → Auto-indent your code for better readability.
+- 🔹 Tab → Auto-indent your code for better readability.
 -🔹 Ctrl + Z → Undo changes.
 -🔹 Ctrl + Y → Redo changes.
 -🔹 Ctrl + A → Select all text in the formula bar.
