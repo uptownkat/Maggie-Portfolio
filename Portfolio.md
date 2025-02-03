@@ -21,7 +21,7 @@ Welcome to my portfolio showcasing my skills executing different analysis with m
 
 ## 🔹 Prescriptive Analysis   
 - [CeraVe E-commerce (Excel)](Excel/Projects/README.cerave.md)
-- [Superstore Sales Performance (Excel)](Excel/Superstore.md)  
+- [Superstore Sales Performance (Excel)](Excel/Projects/README.superstore.md)  
 
 
  
