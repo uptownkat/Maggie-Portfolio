@@ -37,30 +37,22 @@
 # Least common diagnosis treated in 2018
 
 
-
-
-
-
 ![Screenshot 2025-02-02 at 2 03 38 PM](https://github.com/user-attachments/assets/b259d74d-a6dd-455c-964f-152ba8b52036)
 
 
-
-
-
-
-#most common allergy being treated
+#Most common allergies being treated
 
 ![Screenshot 2025-02-02 at 2 09 21 PM](https://github.com/user-attachments/assets/bdacc55f-0150-4a20-8d95-20d6f42db2a0)
 
 
-
-#Least common allergy treaetd.
+#Least common allergies treaetd.
 
 
 ![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
- 
-\\
+#Diagnosis by age group
+
+
 
 #### Patients Province
 #### Diagnosis by age group 
