@@ -44,6 +44,7 @@ performance.
 [Dynamic Dashboard on QuickSight](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/600627353728/dashboards/7355765b-a0f6-4224-89fa-8d09afdb2d75?directory_alias=maggie1)
 
 ![ffb73242-ef9b-467a-904d-23ef719c50f6_1](https://github.com/user-attachments/assets/1c08346f-a491-4250-aa11-fecba403d2b0)
+![886b3e06-f243-4f6f-9d24-3e079055ca4b_1](https://github.com/user-attachments/assets/696e04f4-d2e5-44de-adce-b54feba8da84)
 
  ![Quicksight-Opportunit](https://github.com/user-attachments/assets/9e71719d-b8fb-473a-9a1e-6fbd9a242f64)
 
