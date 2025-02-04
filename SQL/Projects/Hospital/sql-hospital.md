@@ -31,13 +31,42 @@
 
 ![Screenshot 2025-02-01 at 2 22 39 AM](https://github.com/user-attachments/assets/fe875699-694f-48e4-b1d7-a6a9ab7dfd46)
 
+# Top Diagnosis being treated in 2018
+![Screenshot 2025-02-02 at 2 03 21 PM](https://github.com/user-attachments/assets/4900e74b-b426-4ac9-81ed-f93fda2d26e6)
 
+# Least common diagnosis treated in 2018
+
+
+
+
+
+
+![Screenshot 2025-02-02 at 2 03 38 PM](https://github.com/user-attachments/assets/b259d74d-a6dd-455c-964f-152ba8b52036)
+
+
+
+
+
+
+#most common allergy being treated
+
+![Screenshot 2025-02-02 at 2 09 21 PM](https://github.com/user-attachments/assets/bdacc55f-0150-4a20-8d95-20d6f42db2a0)
+
+
+
+#Least common allergy treaetd.
+
+
+![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
 #### Diagnosis fo admitted patients
 
 
 
-#### Allergies treated for outpatients
+#### Most Common Allergies treated
+
+
+![Screenshot 2025-02-04 at 1 42 51 AM](https://github.com/user-attachments/assets/f25bff50-d215-41e1-a1c0-c4c658fbbde9)
 
 
 #### Patients Province
@@ -103,33 +132,7 @@ T
 
 ![Screenshot 2025-02-02 at 1 54 46 PM](https://github.com/user-attachments/assets/1dc3afd1-4374-41bb-8b5d-f8bc2b105f82)
 
-# Top Diagnosis being treated in 2018
-![Screenshot 2025-02-02 at 2 03 21 PM](https://github.com/user-attachments/assets/4900e74b-b426-4ac9-81ed-f93fda2d26e6)
 
-# Least common diagnosis treated in 2018
-
-
-
-
-
-
-![Screenshot 2025-02-02 at 2 03 38 PM](https://github.com/user-attachments/assets/b259d74d-a6dd-455c-964f-152ba8b52036)
-
-
-
-
-
-
-#most common allergy being treated
-
-![Screenshot 2025-02-02 at 2 09 21 PM](https://github.com/user-attachments/assets/bdacc55f-0150-4a20-8d95-20d6f42db2a0)
-
-
-
-#Least common allergy treaetd.
-
-
-![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
 Total number of doctors and specalteisi
 
