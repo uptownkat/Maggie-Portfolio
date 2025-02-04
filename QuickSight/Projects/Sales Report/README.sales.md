@@ -40,5 +40,6 @@ performance.
 
 ### Dashboard
 ![1738638028440-503f7ea8-18cb-43e9-aead-7109113d111d_1](https://github.com/user-attachments/assets/570a1be0-30f2-42bb-a16c-28879f4111f9)
+![1738646554028-7086e87b-2ed4-48d2-8e8a-aad2c9788acf_1](https://github.com/user-attachments/assets/02b61e12-b340-4ef3-a8e1-55bd155e1f7b)
 
 
