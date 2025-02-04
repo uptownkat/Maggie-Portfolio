@@ -2,18 +2,16 @@
 # Sales Forecast Project  
 
 ### Overview  
-This project is a sales forecasting project as used by sales manager. This example is for a computer hardware company, where I used python to create an interactive chart to tract team's quarterly and year's performance and allowing for analysis of past and current sales data as well as predict future 
+This project I created a sales dashboard for a sales manager or executive to analyze This project is a sales Pipeline project as used by sales manager analysing closed business, prospects, and losses. This example is for a computer hardware company, where I used python to create an interactive chart to tract team's quarterly and year's performance and allowing for analsysis of past and current sales data as well as predict future 
 performance.   
-prep, 
-pivot tables
-build dashboard.
-‭
+ 
  
 ‭  
 ### Datasets  
-- **accounts** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
-- **pipeline** (ProductID, CategoryID, Cost, Price)
-- **products** [Products Dataset](Python/data | products.csv)
+[Datasets- 4 Tables,24 columns(total](https://www.kaggle.com/datasets/maggieakarn/sales-data/data)
+- **accounts**  
+- **pipeline**   
+- **products**  
 - **teams**  
 
 [**Viewed and cleaned datasets  with pandas - Python**](https://www.kaggle.com/code/maggieakarn/sales-forecasts-data)
