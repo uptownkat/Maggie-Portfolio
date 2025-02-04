@@ -4,7 +4,7 @@
 # Hospital Efficiency Project 
 
 ##     Overview  
-This is a diagnostic analytics project where I analyzed hospital data using SQL to uncover patterns in patient admissions, doctor performance, and regional demographics. The analysis provided insights into operational efficiency, resource allocation, and patient outcomes. Based on these findings, I identified areas for improvement and recommended data-driven strategies to enhance patient care and optimize hospital performance.
+This is a diagnostic analytics project where  I explored a various aspects of hospital data using SQL (mySQL). The datasets included patient admissions, physician performance and regional demographics. The goal of this project was to use SQL queries to extract valuable insights on the data which can be used to reveal insights to improve patient care and optimize hospital performance.  
 
 ###    Challenges
 
