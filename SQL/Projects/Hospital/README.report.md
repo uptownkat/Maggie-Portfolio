@@ -45,6 +45,6 @@ This is a diagnostic analytics project where I analyzed hospital data using SQL 
 
 ###     Project
 
-[Hospital Data Analysis(SQL)](SQL/hospital_analysis.md)
+[Hospital Data Analysis(SQL)](SQL/Projects/Hospital/sql-hospital.md)
 
 -  Outline  data analysis, insights, and recommended strategies for solutions.
