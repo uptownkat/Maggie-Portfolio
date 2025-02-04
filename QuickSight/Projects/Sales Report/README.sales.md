@@ -8,7 +8,7 @@ performance.
  
 ‭  
 ### Datasets  
-[Datasets- 4 Tables,24 columns(total](https://www.kaggle.com/datasets/maggieakarn/sales-data/data)
+[Datasets- 4 Tables, 24 columns (total)](https://www.kaggle.com/datasets/maggieakarn/sales-data/data)
 - **accounts**  
 - **pipeline**   
 - **products**  
