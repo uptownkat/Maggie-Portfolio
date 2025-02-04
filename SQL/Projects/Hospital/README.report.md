@@ -35,6 +35,9 @@ This is a diagnostic analytics project where  I explored a various aspects of ho
 
 
 ###   Analysis 
+
+I approached this project using SQL by first extracting a variety of insights first of patients, then of physicans to establish profiles. With these datapoints I established implications and recomendations as it relates to improving shotpial operations and patient care.  
+[Hospital Data Analysis(SQL)](SQL/Projects/Hospital/sql-hospital.md)
 - Patient volume of treating physicians 
 - Trends in admissions (demographic, geographic)
 - Common Diagnosis treated by hospital network, physician
@@ -43,8 +46,24 @@ This is a diagnostic analytics project where  I explored a various aspects of ho
 - Distribution of Paitent admission by age group, province
 
 
-###     Project
+###   Insights
 
-[Hospital Data Analysis(SQL)](SQL/Projects/Hospital/sql-hospital.md)
+#### Improving Patient Outcomes
+-  **Reducing Length of Stay (LOS):** Shorter hospital stays can improve patient recovery and reduce risks like infections. Hospitals should optimize discharge planning and post-hospital care.
+-  **Common Diagnoses & Specialized Care:** Heart-related conditions dominate hospital admissions. Investing in cardiovascular care, early intervention programs, and specialized doctors can enhance patient treatment.
+Age Group-Specific Care: Patients 65+ have the highest admission rates, particularly for chronic conditions. Hospitals should expand elderly care services, chronic disease management, and preventive screenings.
+Allergy Management: High rates of penicillin and codeine allergies indicate a need for alternative medication stock and staff training to manage allergic reactions.
+Gender-Specific Health Strategies: Male patients have higher admission rates (54%) than females, suggesting the need for male-focused health initiatives.
+Chronic Condition Hotspots: Ontario has the highest number of chronic condition admissions, requiring targeted resource allocation, specialized chronic care units, and preventive healthcare programs.
+Optimizing Hospital Performance
+Balancing Doctor Workloads: While most doctors have an even distribution of patients, some handle significantly higher admission rates. Optimizing staffing and shift distribution can prevent burnout and ensure consistent patient care.
+Regional Resource Allocation: Ontario leads in admissions, requiring more hospital beds, medical staff, and equipment compared to Nova Scotia and British Columbia.
+Hospital Admissions Trends: Admissions decreased by 800 cases from 2018 to 2019, which could indicate either improved public health or patients seeking alternatives. Hospitals should investigate reasons for these trends.
+Predictive Planning with Chronic Disease Data: High chronic disease admissions in specific provinces signal the need for specialized clinics, better patient education, and proactive health interventions.
+Admissions by Diagnosis & Resource Planning: Frequent diagnoses like cardiovascular conditions, burns, and labor-related admissions suggest areas where hospitals should allocate resources, train staff, and streamline procedures.
+Patient Engagement & Preventive Care: A notable number of patients have no recorded admissions, highlighting a gap in healthcare engagement. Hospitals should implement outreach programs to encourage preventive check-ups.
+These insights can help hospitals streamline operations, allocate resources efficiently, and implement data-driven strategies to improve patient outcomes. Let me know if you need more details on any specific area!
+
+
 
 -  Outline  data analysis, insights, and recommended strategies for solutions.
