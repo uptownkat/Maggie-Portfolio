@@ -10,12 +10,13 @@ build dashboard.
 ‭
  
 ‭  
-### Datasets
+### Datasets  
 - **accounts** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
 - **pipeline** (ProductID, CategoryID, Cost, Price)
 - **products** [Products Dataset](Python/data | products.csv)
 - **teams**  
 
+[**Viewed and cleaned datasets  with pandas - Python**](https://www.kaggle.com/code/maggieakarn/sales-forecasts-data)
 
 ### Key Insights  
 - Ranking Regions, State, Sub-regions, State on Revenue, Profit
