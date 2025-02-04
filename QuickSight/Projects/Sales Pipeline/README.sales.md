@@ -37,11 +37,14 @@ performance.
 - Stacked Column charts
 - Line Chart
 - Pie Chart
+- Scatter Chart
+- Gauge
 
 ### Dashboard 
-[Dynamic Dashboard on QuickSight](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/fc1e10cd-292f-4853-a8b1-333fcba45423/sheets/fc1e10cd-292f-4853-a8b1-333fcba45423_3c98b097-74fc-47ef-827b-7d0832e75dcc)
+[Dynamic Dashboard on QuickSight](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/600627353728/dashboards/7355765b-a0f6-4224-89fa-8d09afdb2d75?directory_alias=maggie1)
 
-![1738638028440-503f7ea8-18cb-43e9-aead-7109113d111d_1](https://github.com/user-attachments/assets/570a1be0-30f2-42bb-a16c-28879f4111f9)
-![1738646554028-7086e87b-2ed4-48d2-8e8a-aad2c9788acf_1](https://github.com/user-attachments/assets/02b61e12-b340-4ef3-a8e1-55bd155e1f7b)
+![ffb73242-ef9b-467a-904d-23ef719c50f6_1](https://github.com/user-attachments/assets/1c08346f-a491-4250-aa11-fecba403d2b0)
 
+ 
+ ![ffb73242-ef9b-467a-904d-23ef719c50f6_1](https://github.com/user-attachments/assets/6ddc2ff4-ed5b-48cf-8ec6-0681c0361627)
 
