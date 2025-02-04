@@ -35,3 +35,8 @@ build dashboard.
 - Donut Chart
 - Line Chart
 - Pie Chart
+
+### Dashboard
+![1738638028440-503f7ea8-18cb-43e9-aead-7109113d111d_1](https://github.com/user-attachments/assets/570a1be0-30f2-42bb-a16c-28879f4111f9)
+
+
