@@ -59,22 +59,18 @@
 
 ![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
-#### Diagnosis fo admitted patients
-
-
-
-#### Most Common Allergies treated
-
-
-![Screenshot 2025-02-04 at 1 42 51 AM](https://github.com/user-attachments/assets/f25bff50-d215-41e1-a1c0-c4c658fbbde9)
-
+ 
+\\
 
 #### Patients Province
 #### Diagnosis by age group 
-
-YOY
-
+ 
 ## Number of admissions for patients 
+
+
+
+
+
 
 #  Physician Profile**
 
