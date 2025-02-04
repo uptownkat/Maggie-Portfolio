@@ -45,6 +45,5 @@ performance.
 
 ![ffb73242-ef9b-467a-904d-23ef719c50f6_1](https://github.com/user-attachments/assets/1c08346f-a491-4250-aa11-fecba403d2b0)
 
- 
- ![ffb73242-ef9b-467a-904d-23ef719c50f6_1](https://github.com/user-attachments/assets/6ddc2ff4-ed5b-48cf-8ec6-0681c0361627)
+ ![Quicksight-Opportunit](https://github.com/user-attachments/assets/9e71719d-b8fb-473a-9a1e-6fbd9a242f64)
 
