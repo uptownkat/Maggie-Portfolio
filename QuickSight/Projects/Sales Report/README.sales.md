@@ -16,22 +16,25 @@ performance.
 
 [**Viewed and cleaned datasets  with pandas - Python**](https://www.kaggle.com/code/maggieakarn/sales-forecasts-data)
 
-### Key Insights  
-- Ranking Regions, State, Sub-regions, State on Revenue, Profit
-- Most to least profitable product category, sub-category and product.
-- Sales performance by customer segment
-- Average Discount by Product Category
-- Identifying Customer Lifetime Value
-- Sales Distribution by Product Category
-- Ranking customer segment and Revenue , Profit
-- Rank of state by profit
-- Average Sales by Segement
-- Monthly Sales Growth YOY
+### Analysis/Key Insights - Quicksight
+- Total Revenue from accounts won (Q4 2016- Q4 2017)
+- Accounts won (national, regionally, manager, salesperson)
+- Monthly Revenue trend
+- Breakdown of number of accounts by products.
+- Contribution of Products to all revenue.
+- Number of accounts lost, and potential revenue
+- Breakdown of accounts lost by manager and sales person.
+- Trend of loss by month
+- Opportunities - total accounts and revenue
+- Forecast gross revenue by national, sales manager, region, sales person 
 
-### Visualizations in Excel
-- Pivot Table
-- Bar Chart
-- Donut Chart
+### Visualizations in Quicksight
+- KPI Cards
+- Bar Charts
+- Pivot tables
+- Waterfall Chart
+- Slicers
+- Stacked Column charts
 - Line Chart
 - Pie Chart
 
