@@ -1,30 +1,29 @@
 # Analysis
 
 
-### Patient Demographics
+### Patient Profile  
 
-**Age of patients skew older with most patients within the 65+ age group** 
+**Demographics = Age of patients skew older with most patients within the 65+ age group** 
 
-- [Age Group](Age_group.sql)
+- [Age Group Query](Age_group.sql)
 
 - [Query Results](age_group.csv)
 
-**Patients skew higher male**
+**Patients skew slightly higher male at 54% vs.46% female**
   
-- [Gender](gender.sql)
+- [Gender Query](gender.sql)
 - [Query Results](fem_male.csv)
 
-
   
-- [Gender Comp](gender_percent.sql)
+- [Gender Comp Query](gender_percent.sql)
 - [Query Results](gender_percent.csv)
-
 
 
 **Patients weight-male/female**
 
 - [Height/Weight](weight_height.sql) 
 - [Query Results](height_weight.csv)
+  
 
 **Dust, Sulfa Surgical Tape, Sulfate are the least common cases in allergies**
 
@@ -32,9 +31,11 @@
 - [Query Results](least_allergies.csv)
 
 
+### Province Profile  
+
 **Number of cases in each province**
 
-- [Number Cases by Province](SQL/Hospital/cases_provinces.sql)
+- [Cases by Province Query](SQL/Hospital/cases_provinces.sql)
 - [Query Results](SQL/Hospital/num_provinces.csv)
  
 
