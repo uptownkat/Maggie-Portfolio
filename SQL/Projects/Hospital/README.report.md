@@ -73,14 +73,14 @@ Regional Resource Allocation: Ontario leads in admissions, requiring more hospit
 -  **Hospital Admissions Trends:** Admissions decreased by 800 cases from 2018 to 2019, which could indicate either improved public health or patients seeking alternatives. Hospitals should investigate reasons for these trends.
 -  **Predictive Planning with Chronic Disease Data:** High chronic disease admissions in specific provinces signal the need for specialized clinics, better patient education, and proactive health interventions.
 -  **Admissions by Diagnosis & Resource Planning:** Frequent diagnoses like cardiovascular conditions, burns, and labor-related admissions suggest areas where hospitals should allocate resources, train staff, and streamline procedures.
+-  
 -  **Patient Engagement & Preventive Care:** A notable number of patients have no recorded admissions, highlighting a gap in healthcare engagement. Hospitals should implement outreach programs to encourage preventive check-ups.
 
-- **Business Impact:
-By setting up heart care and professional doctors that can handle cardiovascular
+- **Business Impact:** By setting up heart care and professional doctors that can handle cardiovascular
 issues, the hospitals can provide quality care to those patients. By providing quality
 care the cardio area can be evened out from being so overutilized so other areas can
 receive some focus as well. Cardiovascular issues can be very costly and having
 efficient care can take care of these issues.
 
 
--  Outline  data analysis, insights, and recommended strategies for solutions.
+ 
