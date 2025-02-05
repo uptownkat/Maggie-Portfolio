@@ -69,16 +69,25 @@
 
 ![Screenshot 2025-02-04 at 9 42 51 PM](https://github.com/user-attachments/assets/0e8c9514-5d47-4843-960d-f8a7feced53e)
 
+- # Profile of Provinces
 
+- #### Provinces ranked by Total Number of Admissions
+![Screenshot 2025-02-04 at 10 23 52 PM](https://github.com/user-attachments/assets/37e7bc62-1457-41b7-b77e-03c3eb916df6)
+
+- #### Distribtion of Allergies in provinces
+ 
+![Screenshot 2025-02-04 at 10 40 16 PM](https://github.com/user-attachments/assets/34a6ef08-3b04-40a0-b003-c05f7946a5eb)
+
+
+  
+ 
 #  Physician Profile 
 
-
  
-**Number of Patients treated by each Physician/Specialty (Top 5, Bottom 5(
+- #### Number of Patients treated by each Physician/Specialty (Top 5, Bottom 5)
 
 ![Screenshot 2025-01-31 at 3 57 52 PM](https://github.com/user-attachments/assets/bb58e8a9-cace-4dcc-aa93-505d5d36a864)
 ![Screenshot 2025-01-31 at 3 58 45 PM](https://github.com/user-attachments/assets/f78ab9be-8458-477c-ab85-3987372bc7aa)
-
 
 
 - #### Doctors performance by Year (#of admissions) 
@@ -86,7 +95,6 @@ Most common treated diagnosis or allergy by doctors
 
 
 - #### Lowest 5 Physicians by Volume of Patients Treated 
-
 
 ![Screenshot 2025-01-31 at 4 01 24 PM](https://github.com/user-attachments/assets/332a8c3d-3f21-4827-b404-29bbba03f800)
 ![Screenshot 2025-01-31 at 4 01 35 PM](https://github.com/user-attachments/assets/70a95de9-ea3a-4c5f-85c0-a693113a0970)
@@ -96,14 +104,6 @@ Most common treated diagnosis or allergy by doctors
 ![Screenshot 2025-02-04 at 10 10 37 PM](https://github.com/user-attachments/assets/ae670e78-fb4a-4ed0-bf5a-8c8814b1dc09)
 
 
-- #### Profile of Provinces
-
-
-By analyzing the distribution of patients across provinces, the hospital can improve its overall efficiency by addressing the needs of each province individually. 
- 
-
-- #### Provinces ranked by Total Number of Admissions
-![Screenshot 2025-02-04 at 10 23 52 PM](https://github.com/user-attachments/assets/37e7bc62-1457-41b7-b77e-03c3eb916df6)
  
 - #### Breakdown of 2018 vs. 2019 number of admissions
 
