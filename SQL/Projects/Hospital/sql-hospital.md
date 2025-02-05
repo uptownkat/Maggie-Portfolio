@@ -41,31 +41,31 @@
 - #### Distribution of age group of admitted patients.
 ![Screenshot 2025-02-04 at 7 12 55 PM](https://github.com/user-attachments/assets/34c913e5-50ff-4916-84cf-f03f372a33f5)
 
-- # Top Diagnosis of Seniors (65+)
+- #### Top Diagnosis of Seniors (65+)
 ![Screenshot 2025-02-04 at 7 18 35 PM](https://github.com/user-attachments/assets/09c68878-e955-4da2-9ad9-ef116acf4805)
 
 
-- # Top Diagnosis being treated in 2018
+- #### Top Diagnosis being treated in 2018
 ![Screenshot 2025-02-02 at 2 03 21 PM](https://github.com/user-attachments/assets/4900e74b-b426-4ac9-81ed-f93fda2d26e6)
 
-- # Least common diagnosis treated in 2018
+- #### Least common diagnosis treated in 2018
 
 
 ![Screenshot 2025-02-02 at 2 03 38 PM](https://github.com/user-attachments/assets/b259d74d-a6dd-455c-964f-152ba8b52036)
 
 
-- # Most common allergies being treated
+- #### Most common allergies being treated
 
 ![Screenshot 2025-02-02 at 2 09 21 PM](https://github.com/user-attachments/assets/bdacc55f-0150-4a20-8d95-20d6f42db2a0)
 
 
-- # Least common allergies treated
+- #### Least common allergies treated
 
 
 ![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
 
-- ## Average stay for admitted patients
+- #### Average stay for admitted patients
 
 ![Screenshot 2025-02-04 at 9 42 51 PM](https://github.com/user-attachments/assets/0e8c9514-5d47-4843-960d-f8a7feced53e)
 
@@ -81,45 +81,45 @@
 
 
 
-- ## Doctors performance by Year (#of admissions) 
+- #### Doctors performance by Year (#of admissions) 
 Most common treated diagnosis or allergy by doctors
 
 
-- ## Lowest 5 Physicians by Volume of Patients Treated 
+- #### Lowest 5 Physicians by Volume of Patients Treated 
 
 
 ![Screenshot 2025-01-31 at 4 01 24 PM](https://github.com/user-attachments/assets/332a8c3d-3f21-4827-b404-29bbba03f800)
 ![Screenshot 2025-01-31 at 4 01 35 PM](https://github.com/user-attachments/assets/70a95de9-ea3a-4c5f-85c0-a693113a0970)
 
 
-- ## Total Admissions in 2018 and 2019
+- #### Total Admissions in 2018 and 2019
 ![Screenshot 2025-02-04 at 10 10 37 PM](https://github.com/user-attachments/assets/ae670e78-fb4a-4ed0-bf5a-8c8814b1dc09)
 
 
-- ## Profile of Provinces
+- #### Profile of Provinces
 
-- ## Top Provinces with Highest Patient Admissions
+- #### Top Provinces with Highest Patient Admissions
 
 ![Screenshot 2025-01-31 at 3 47 02 PM](https://github.com/user-attachments/assets/5017ae38-69f3-4a19-9216-89ab27f92f0c)
 ![Screenshot 2025-01-31 at 3 47 14 PM](https://github.com/user-attachments/assets/d69c7e8c-b748-4a7b-9591-0d779fa0f22a)
  
-- ## Breakdown of 2018 vs. 2019 number of admissions
+- #### Breakdown of 2018 vs. 2019 number of admissions
 
 ![Screenshot 2025-02-02 at 1 40 40 PM](https://github.com/user-attachments/assets/bab53d7b-00cf-45a6-99c1-8de89e35f108)
 
-- ## Range of months in each year,
+- #### Range of months in each year,
 
 ![Screenshot 2025-02-02 at 1 24 51 PM](https://github.com/user-attachments/assets/d30ddcf0-579e-4d3e-a12f-82bf224d2d73)
 
-- ## Top diagnosis from admitted patients by year
+- #### Top diagnosis from admitted patients by year
 
 ![Screenshot 2025-02-02 at 1 40 33 PM](https://github.com/user-attachments/assets/e96483ce-575c-44e5-aac0-201b161aee7e)
 
-- ## Physician Profile
+- #### Physician Profile
 
 ![Screenshot 2025-02-02 at 1 54 46 PM](https://github.com/user-attachments/assets/1dc3afd1-4374-41bb-8b5d-f8bc2b105f82)
 
-- ## Total number of doctors and specialties
+- #### Total number of doctors and specialties
 
 ![Screenshot 2025-02-04 at 9 51 57 PM](https://github.com/user-attachments/assets/e698ae13-1697-443b-bd05-029ac41b7e08)
 
