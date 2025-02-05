@@ -2,7 +2,7 @@
 
 #  **Patient Profile**
 
-####  </ins>Breakdown of day patients and admitted patients</ins> 
+#### <u></ins>Breakdown of day patients and admitted patients</ins></u> 
 
 ![Screenshot 2025-01-31 at 4 19 30 PM](https://github.com/user-attachments/assets/badf0b03-ce4e-442e-91cf-1ee5e7a28536)
 
