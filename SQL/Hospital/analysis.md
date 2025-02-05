@@ -1,6 +1,12 @@
 # Analysis
 
+## Explore Data
 
+
+Time 2018- 2019
+- [Year](year.sql)
+- [Query Results](year.csv)
+ 
 ### Patient Profile  
 
 **Demographics = Age of patients skew older with most patients within the 65+ age group** 
@@ -23,7 +29,19 @@
 
 - [Height/Weight](weight_height.sql) 
 - [Query Results](height_weight.csv)
-  
+
+
+**Most common 
+
+- [Senior Diagnosis](senior_diag.sqls)
+- [Query Results](sen_diag.csv)
+
+
+**The highest allergy cases are Penicillin, followed by Codeine**
+
+- [Most Common Allergy ](topallergies.sql)
+- [Query Results](top_allergies.csv)
+
 
 **Dust, Sulfa Surgical Tape, Sulfate are the least common cases in allergies**
 
@@ -37,7 +55,15 @@
 
 - [Cases by Province Query](SQL/Hospital/cases_provinces.sql)
 - [Query Results](SQL/Hospital/num_provinces.csv)
- 
+
+  ** Most common allergy by province
+
+- [Common Allergies by Province](provallergies.sql)
+- [Query Results](provallergies.csv)
+
+- [Provinces and # Patients](province.sql
+- [Query Results](province.csv)
+
 
 
 
@@ -50,26 +76,12 @@
 - [Query Results](leastad20189.csv)
 
 
-- [Common Allergies by Province](provallergies.sql)
-- [Query Results](provallergies.csv)
 
-- [Provinces and # Patients](province.sql
-- [Query Results](province.csv)
+## Physician Data 
 
-
-
-
-- [Senior Diagnosis](senior_diag.sqlsen_diag.csv)
-- [Query Results](sen_diag.csv)
-
-- [Number of physicians by Specialty ](special_patientcount.sql
+- [Number of Physicians by Specialty](special_patientcount.sql)
 - [Query Results](spec_count.csv)
 
-
-
-- [Number of Patients by Specialty](special_patientcount.sql)
-
-- [Query Results](specialty_count.sql)
 
 - [Top Diagnosis 2018](top2018_diag.sql)
 - [Query Results](top2018diag.csv)
@@ -79,12 +91,8 @@
 - [Query Results](top2019_diag.csv)
 
 
-- [Most Common Allergy ](topallergies.sql)
-- [Query Results](top_allergies.csv)
 
 
-- [Year](year.sql)
-- [Query Results](year.csv)
 
 - [ ](
 - [Query Results](
