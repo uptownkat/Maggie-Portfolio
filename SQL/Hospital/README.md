@@ -36,7 +36,7 @@ This is a diagnostic analytics project using SQL to explore several issues relat
 
 ###   Analysis 
 
-[link]([SQL/Hospital_network.sql)
+[link](Hospital_network.sql)
 - Patient volume of treating physicians 
 - Trends in admissions (demographic, geographic)
 - Common Diagnosis treated by hospital network, physician
