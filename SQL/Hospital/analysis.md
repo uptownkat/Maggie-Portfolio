@@ -31,7 +31,7 @@ Time 2018- 2019
 - [Query Results](height_weight.csv)
 
 
-**Most common 
+**The highest cases of chronic conditions for seniors are congestive heart failure.**
 
 - [Senior Diagnosis](senior_diag.sqls)
 - [Query Results](sen_diag.csv)
@@ -56,12 +56,15 @@ Time 2018- 2019
 - [Cases by Province Query](SQL/Hospital/cases_provinces.sql)
 - [Query Results](SQL/Hospital/num_provinces.csv)
 
-  ** Most common allergy by province
+  ** Penicillin is the most common allergy treated by Province**
 
 - [Common Allergies by Province](provallergies.sql)
 - [Query Results](provallergies.csv)
 
-- [Provinces and # Patients](province.sql
+
+ **Most patients who are being treated are from the Ontario province**
+ 
+- [Provinces and # Patients](province.sql)
 - [Query Results](province.csv)
 
 
@@ -79,9 +82,12 @@ Time 2018- 2019
 
 ## Physician Data 
 
+**Patients are being treated most by Respiralogists, followed by Cardiologist**
+
 - [Number of Physicians by Specialty](special_patientcount.sql)
 - [Query Results](spec_count.csv)
 
+**Overall the condition that is treated the most is congestive heart failure in both 2018, 2019**
 
 - [Top Diagnosis 2018](top2018_diag.sql)
 - [Query Results](top2018diag.csv)
@@ -90,11 +96,7 @@ Time 2018- 2019
 - [Top Diagnosis 2019](top2019_diag.sql)
 - [Query Results](top2019_diag.csv)
 
-
-
-
-
-- [ ](
-- [Query Results](
+- [Total Number of Specialists](specialty_count.sql)
+- [Query Results](spec_count.csv)
 
 
