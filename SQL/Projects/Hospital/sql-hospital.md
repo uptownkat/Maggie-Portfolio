@@ -27,9 +27,16 @@
 
 
 
-#### Distribution of age group 
+#### Distribution of age group of patients
+
 
 ![Screenshot 2025-02-01 at 2 22 39 AM](https://github.com/user-attachments/assets/fe875699-694f-48e4-b1d7-a6a9ab7dfd46)
+
+#### Distribution of age group of admitted patients.
+![Screenshot 2025-02-04 at 7 12 55 PM](https://github.com/user-attachments/assets/34c913e5-50ff-4916-84cf-f03f372a33f5)
+# Top Diagnosis of Seniors (65+)
+![Screenshot 2025-02-04 at 7 18 35 PM](https://github.com/user-attachments/assets/09c68878-e955-4da2-9ad9-ef116acf4805)
+
 
 # Top Diagnosis being treated in 2018
 ![Screenshot 2025-02-02 at 2 03 21 PM](https://github.com/user-attachments/assets/4900e74b-b426-4ac9-81ed-f93fda2d26e6)
@@ -40,17 +47,17 @@
 ![Screenshot 2025-02-02 at 2 03 38 PM](https://github.com/user-attachments/assets/b259d74d-a6dd-455c-964f-152ba8b52036)
 
 
-#Most common allergies being treated
+# Most common allergies being treated
 
 ![Screenshot 2025-02-02 at 2 09 21 PM](https://github.com/user-attachments/assets/bdacc55f-0150-4a20-8d95-20d6f42db2a0)
 
 
-#Least common allergies treaetd.
+# Least common allergies treated
 
 
 ![Screenshot 2025-02-02 at 2 11 05 PM](https://github.com/user-attachments/assets/e1909fe0-2f95-4ac0-98fa-9bed638745f4)
 
-#Diagnosis by age group
+# Diagnosis by age group
 
 
 
