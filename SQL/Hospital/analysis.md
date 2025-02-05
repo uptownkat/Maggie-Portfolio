@@ -14,6 +14,13 @@
 - [Gender](gender.sql)
 - [Query Results](fem_male.csv)
 
+
+  
+- [Gender Comp](gender_percent.sql)
+- [Query Results](gender_percent.csv)
+
+
+
 **Patients weight-male/female**
 
 - [Height/Weight](weight_height.sql) 
