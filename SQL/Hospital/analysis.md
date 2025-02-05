@@ -56,7 +56,7 @@ Time 2018- 2019
 - [Cases by Province Query](SQL/Hospital/cases_provinces.sql)
 - [Query Results](SQL/Hospital/num_provinces.csv)
 
-  ** Penicillin is the most common allergy treated by Province**
+**Penicillin is the most common allergy treated by Province**
 
 - [Common Allergies by Province](provallergies.sql)
 - [Query Results](provallergies.csv)
@@ -71,16 +71,14 @@ Time 2018- 2019
 
 
 
-- [Least # cases 2018](leastadm2018.sql)
-- [Query Results](leastad2018.csv)
-
-- [Least # cases 2019 ](leastadm2019.sql)
-
-- [Query Results](leastad20189.csv)
-
-
-
 ## Physician Data 
+
+**There are 2 physicians per specialty,ie. Cardiologist, Cardiovascular Surgeon, Gastroentrolgist,etc, and only one Urologist,
+Orthopaedic Surgeon, and internist each.**
+
+- [Total Number of Specialists](specialty_count.sql)
+- [Query Results](spec_count.csv)
+
 
 **Patients are being treated most by Respiralogists, followed by Cardiologist**
 
@@ -96,7 +94,13 @@ Time 2018- 2019
 - [Top Diagnosis 2019](top2019_diag.sql)
 - [Query Results](top2019_diag.csv)
 
-- [Total Number of Specialists](specialty_count.sql)
-- [Query Results](spec_count.csv)
 
+**Overall the conditions that are being treated least include: 
+
+- [Least # cases 2018](leastadm2018.sql)
+- [Query Results](leastad2018.csv)
+
+- [Least # cases 2019 ](leastadm2019.sql)
+
+- [Query Results](leastad20189.csv)
 
