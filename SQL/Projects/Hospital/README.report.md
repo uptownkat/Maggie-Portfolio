@@ -56,11 +56,8 @@ Here are insights that I derived from the analysis of the datasets addressing th
 
 -  **Age Group:***  THe highest admission rates are with senior patients (65+) for various chronic conditions. Eldercare services, and chronic disease management should be a focus.
 An increasing segment ages 35-44 are being admitted for various conditions. Hospitals should implement outreach programs to encourage preventive screening to the younger adult segment.
-
 -  **Allergy Management:** High rates of penicillin and codeine allergies indicate a need for medication stock and staff training to manage allergic reactions.
--  
-- **Gender-Specific Health Strategies:** Male patients have higher admission rates (54%) than females, suggesting the need for male-focused health initiatives.
-- 
+-  **Gender-Specific Health Strategies:** Male patients have higher admission rates (54%) than females, suggesting the need for male-focused health initiatives.
 -  **Targeted Focus:**  Ontario has the highest patient admission amonts the provinces skewing heavy male. Special health initiative that focus on preventative health to minimize the high admission rates and investing in resources allocated from other provinces with less need of this support
   
 #### Optimizing Hospital Performance
@@ -68,10 +65,8 @@ An increasing segment ages 35-44 are being admitted for various conditions. Hosp
 Regional Resource Allocation: Ontario leads in admissions, requiring more hospital beds, medical staff, and equipment compared to Nova Scotia and British Columbia.
 -  **Hospital Admissions Trends:** Admissions decreased by 800 cases from 2018 to 2019, which could indicate either improved public health or patients seeking alternatives. Hospitals should investigate reasons for these trends.
 -  **Predictive Planning with Chronic Disease Data:** High chronic disease admissions in specific provinces signal the need for specialized clinics, better patient education, and proactive health interventions.
--  **Admissions by Diagnosis & Resource Planning:** Frequent diagnoses like cardiovascular conditions, burns, and labor-related admissions suggest areas where hospitals should allocate resources, train staff, and streamline procedures.
--  
+-  **Admissions by Diagnosis & Resource Planning:** Frequent diagnoses like cardiovascular conditions, burns, and labor-related admissions suggest areas where hospitals should allocate resources, train staff, and streamline procedures. 
 -  **Patient Engagement & Preventive Care:** A notable number of patients have no recorded admissions, highlighting a gap in healthcare engagement. Hospitals should implement outreach programs to encourage preventive check-ups.
-
 - **Business Impact:** By setting up heart care and professional doctors that can handle cardiovascular
 issues, the hospitals can provide quality care to those patients. By providing quality
 care the cardio area can be evened out from being so overutilized so other areas can
