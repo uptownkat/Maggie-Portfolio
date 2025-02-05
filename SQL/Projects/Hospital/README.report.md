@@ -36,8 +36,7 @@ This is a diagnostic analytics project using SQL to explore several issues relat
 
 ###   Analysis 
 
-[Hospital Data Analysis(SQL)](SQL/Projects/Hospital/sql-hospital.md)
-
+[MySQL Project Analysis](SQL/Projects/Hospital/sql-hospital.md)
 - Patient volume of treating physicians 
 - Trends in admissions (demographic, geographic)
 - Common Diagnosis treated by hospital network, physician
