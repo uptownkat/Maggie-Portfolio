@@ -98,10 +98,12 @@ Most common treated diagnosis or allergy by doctors
 
 - #### Profile of Provinces
 
-- #### Top Provinces with Highest Patient Admissions
 
-![Screenshot 2025-01-31 at 3 47 02 PM](https://github.com/user-attachments/assets/5017ae38-69f3-4a19-9216-89ab27f92f0c)
-![Screenshot 2025-01-31 at 3 47 14 PM](https://github.com/user-attachments/assets/d69c7e8c-b748-4a7b-9591-0d779fa0f22a)
+By analyzing the distribution of patients across provinces, the hospital can improve its overall efficiency by addressing the needs of each province individually. 
+ 
+
+- #### Provinces ranked by Total Number of Admissions
+![Screenshot 2025-02-04 at 10 23 52 PM](https://github.com/user-attachments/assets/37e7bc62-1457-41b7-b77e-03c3eb916df6)
  
 - #### Breakdown of 2018 vs. 2019 number of admissions
 
