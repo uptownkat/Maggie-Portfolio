@@ -9,7 +9,7 @@
 ![Screenshot 2025-01-31 at 4 25 39 PM](https://github.com/user-attachments/assets/aacfcc69-bd1a-4778-a6a9-e47c47d50ea3)
 
 
-####   </ins>Patients both day and inpatients</ins> 
+- ####   </ins>Patients both day and inpatients</ins> 
 
 ![Screenshot 2025-02-01 at 1 48 08 AM](https://github.com/user-attachments/assets/15dcf101-7164-4ce8-a460-b0f7718cfc67)
 
@@ -17,7 +17,7 @@
 ![Screenshot 2025-02-01 at 1 48 19 AM](https://github.com/user-attachments/assets/6e1a9979-ca6b-4348-8cb7-71dd98bf0b93)
 
 
-####   Average weight and height by Gender 
+- ####   Average weight and height by Gender 
 
 
 ![Screenshot 2025-02-01 at 2 10 52 AM](https://github.com/user-attachments/assets/78fed2da-639c-41ac-b2a5-bd54be3f8afe)
@@ -27,14 +27,15 @@
 
 
 
-#### Distribution of age group of patients
+- #### Distribution of age group of patients
 
 
 ![Screenshot 2025-02-01 at 2 22 39 AM](https://github.com/user-attachments/assets/fe875699-694f-48e4-b1d7-a6a9ab7dfd46)
 
-#### Distribution of age group of admitted patients.
+- #### Distribution of age group of admitted patients.
 ![Screenshot 2025-02-04 at 7 12 55 PM](https://github.com/user-attachments/assets/34c913e5-50ff-4916-84cf-f03f372a33f5)
-# Top Diagnosis of Seniors (65+)
+
+- # Top Diagnosis of Seniors (65+)
 ![Screenshot 2025-02-04 at 7 18 35 PM](https://github.com/user-attachments/assets/09c68878-e955-4da2-9ad9-ef116acf4805)
 
 
