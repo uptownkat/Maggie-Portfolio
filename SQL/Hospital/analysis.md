@@ -3,7 +3,7 @@
 
 #### Patient Demographics
 
-Patients skew higher with most patients within the 65+ age group 
+- **Age of patients skew older with most patients within the 65+ age group** 
 
 [Age Group](SQL/Hospital/Age_group.sql)
 
