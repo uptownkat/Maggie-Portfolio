@@ -4,7 +4,7 @@
 # Hospital Efficiency Project 
 
 ##     Overview  
-In this project I used SQL to explore several datasets related to a hospital network. These included data on patient admissions, physician performance and regional demographics. The goal of this diagnostic analystics project to extract as much data to garner to provide any insights and direction on ways to improve patient care and optimize hospital performance.   
+This is a diagnostic analytics project using SQL to explore several issues related to the work within a hospital network in Canada. The datasets provide information on  patient diagnosis, length of admissions, physician performance, regional demographics, to name a few. The goal here was to garner insights as much insights from these data sets to establish recommendations and implications as it relates to improving patient care and physician performance, and optimization of hospital operations.   
 
 ###    Issues to Solve
 
@@ -36,19 +36,15 @@ In this project I used SQL to explore several datasets related to a hospital net
 
 ###   Analysis 
 
-I approached this project by first creating a profile of the patient population and followed by the physicians and their performance. By extracting data points from the datasets, I established implications and recomendations as it relates to addressing the issues as outlined earlier.
 [Hospital Data Analysis(SQL)](SQL/Projects/Hospital/sql-hospital.md)
 
-Patient Population Profile
-
-
-Hospital/Physician Performance Profile
 - Patient volume of treating physicians 
 - Trends in admissions (demographic, geographic)
 - Common Diagnosis treated by hospital network, physician
 - Common Diagnosis suffered by patients, province
 - Patient stay relationship to diagnosis, province, hospital
 - Distribution of Patient admission by age group, province
+- and more
 
 
 ###   Insights
@@ -67,7 +63,7 @@ An increasing segment ages 35-44 are being admitted for various conditions. Hosp
 - 
 -  **Targeted Focus:**  Ontario has the highest patient admission amonts the provinces skewing heavy male. Special health initiative that focus on preventative health to minimize the high admission rates and investing in resources allocated from other provinces with less need of this support
   
-### Optimizing Hospital Performance
+#### Optimizing Hospital Performance
 -  **Balancing Doctor Workloads:** While most doctors have an even distribution of patients, some handle significantly higher admission rates. Optimizing staffing and shift distribution can prevent burnout and ensure consistent patient care.
 Regional Resource Allocation: Ontario leads in admissions, requiring more hospital beds, medical staff, and equipment compared to Nova Scotia and British Columbia.
 -  **Hospital Admissions Trends:** Admissions decreased by 800 cases from 2018 to 2019, which could indicate either improved public health or patients seeking alternatives. Hospitals should investigate reasons for these trends.
