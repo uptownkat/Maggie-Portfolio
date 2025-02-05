@@ -66,28 +66,28 @@
 
 
 
+
+
 #### Patients Province
-#### Diagnosis by age group 
+
+
+
+
+
  
 ## Number of admissions for patients 
 
 
+## Average stay for admitted patients
+
+![Screenshot 2025-02-04 at 9 42 51 PM](https://github.com/user-attachments/assets/0e8c9514-5d47-4843-960d-f8a7feced53e)
 
 
-
-
-#  Physician Profile**
-
-
-
-
-
-
+#  Physician Profile 
 
 
  
-**Top 5 Physicians by Volume of Patients Treated**
-
+**Number of Patients treated by each Physician/Specialty (Top 5, Bottom 5(
 
 ![Screenshot 2025-01-31 at 3 57 52 PM](https://github.com/user-attachments/assets/bb58e8a9-cace-4dcc-aa93-505d5d36a864)
 ![Screenshot 2025-01-31 at 3 58 45 PM](https://github.com/user-attachments/assets/f78ab9be-8458-477c-ab85-3987372bc7aa)
@@ -134,8 +134,9 @@ T
 
 
 
-Total number of doctors and specalteisi
+# Total number of doctors and specialties
 
+![Screenshot 2025-02-04 at 9 51 57 PM](https://github.com/user-attachments/assets/e698ae13-1697-443b-bd05-029ac41b7e08)
 
 
 ![Screenshot 2025-02-02 at 2 25 49 PM](https://github.com/user-attachments/assets/7663db3b-ea1b-4317-b773-1087fc529241)
