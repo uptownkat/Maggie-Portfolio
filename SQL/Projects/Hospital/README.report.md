@@ -62,7 +62,7 @@ An increasing segment ages 35-44 are being admitted for various conditions. Hosp
   
 #### Optimizing Hospital Performance
 -  **Balancing Doctor Workloads:** While most doctors have an even distribution of patients, some handle significantly higher admission rates. Optimizing staffing and shift distribution can prevent burnout and ensure consistent patient care.
-Regional Resource Allocation: Ontario leads in admissions, requiring more hospital beds, medical staff, and equipment compared to Nova Scotia and British Columbia.
+-  **Regional Resource Allocation:** Ontario leads in admissions, requiring more hospital beds, medical staff, and equipment compared to Nova Scotia and British Columbia.
 -  **Hospital Admissions Trends:** Admissions decreased by 800 cases from 2018 to 2019, which could indicate either improved public health or patients seeking alternatives. Hospitals should investigate reasons for these trends.
 -  **Predictive Planning with Chronic Disease Data:** High chronic disease admissions in specific provinces signal the need for specialized clinics, better patient education, and proactive health interventions.
 -  **Admissions by Diagnosis & Resource Planning:** Frequent diagnoses like cardiovascular conditions, burns, and labor-related admissions suggest areas where hospitals should allocate resources, train staff, and streamline procedures. 
