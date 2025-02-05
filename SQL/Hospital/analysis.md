@@ -1,4 +1,4 @@
-# Analysis
+# SQL Query Syntax (Microsoft SqL Server)
 
 ## Explore Data
 
