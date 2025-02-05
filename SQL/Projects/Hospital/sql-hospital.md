@@ -18,7 +18,9 @@
 
 ![Screenshot 2025-02-01 at 1 48 19 AM](https://github.com/user-attachments/assets/6e1a9979-ca6b-4348-8cb7-71dd98bf0b93)
 
-
+- #### Gender breakdown
+  
+![Screenshot 2025-02-04 at 10 01 13 PM](https://github.com/user-attachments/assets/316b236e-f5f9-432f-8369-e853b347641d)
 
 
 - ####   Average weight and height by Gender 
