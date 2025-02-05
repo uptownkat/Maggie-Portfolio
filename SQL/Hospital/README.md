@@ -16,7 +16,7 @@ This is a diagnostic analytics project using SQL to explore several issues relat
 ‭  
 ###     Datasets
 
--  **patients**](patients.csv)
+-  [**patients**](patients.csv)
 (patient_ID, first_name, last_name, gender, birth-date, city, province_id, allergies, height, weight) 
 - [**doctors**](doctors.csv)
 (doctor_id, first_name, last_name, specialty)
@@ -36,7 +36,7 @@ This is a diagnostic analytics project using SQL to explore several issues relat
 
 ###   Analysis 
 
-[link](Hospital_network.sql)
+[SQL Query Syntax and Results](analysis.md)
 - Patient volume of treating physicians 
 - Trends in admissions (demographic, geographic)
 - Common Diagnosis treated by hospital network, physician
