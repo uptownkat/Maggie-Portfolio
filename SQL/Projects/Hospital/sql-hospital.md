@@ -9,12 +9,16 @@
 ![Screenshot 2025-01-31 at 4 25 39 PM](https://github.com/user-attachments/assets/aacfcc69-bd1a-4778-a6a9-e47c47d50ea3)
 
 
+
+
 - ####   </ins>Patients both day and inpatients</ins> 
 
 ![Screenshot 2025-02-01 at 1 48 08 AM](https://github.com/user-attachments/assets/15dcf101-7164-4ce8-a460-b0f7718cfc67)
 
 
 ![Screenshot 2025-02-01 at 1 48 19 AM](https://github.com/user-attachments/assets/6e1a9979-ca6b-4348-8cb7-71dd98bf0b93)
+
+
 
 
 - ####   Average weight and height by Gender 
