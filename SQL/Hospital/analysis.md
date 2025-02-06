@@ -84,10 +84,9 @@ Time Period:  2018- 2019
 
 
 
-## Physician Data 
+### Physician Profile
 
-**There are 2 physicians per specialty,ie. Cardiologist, Cardiovascular Surgeon, Gastroentrolgist,etc, and only one Urologist,
-Orthopaedic Surgeon, and internist each.**
+**There are 2 physicians per specialty,ie. Cardiologist, Cardiovascular Surgeon, Gastroentrolgist,etc, and only one Urologist,Orthopaedic Surgeon, and internist each.**
 
 - [Total Number of Specialists](specialty_count.sql)
 - [Query Results](spec_count.csv)
