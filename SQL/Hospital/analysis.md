@@ -2,7 +2,7 @@
 
 ### Explore Data
 
-Data reflects 4530 number of patients,    number of physicians
+Data reflects 4530 number of patients, 27 number of physicians.
 
 - [Total Patients](total_patients.sql)
 - [Query Results](total_patients.csv)
