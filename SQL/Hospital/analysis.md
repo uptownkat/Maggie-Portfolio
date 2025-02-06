@@ -16,7 +16,7 @@ Data reflects 4530 number of patients, 27 number of physicians.
 
 
 
-Time 2018- 2019
+Time Period:  2018- 2019
 - [Year](year.sql)
 - [Query Results](year.csv)
  
