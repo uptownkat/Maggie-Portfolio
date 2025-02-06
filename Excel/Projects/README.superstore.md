@@ -32,7 +32,7 @@ This is a **prescriptive analytics** project where I analyzed Superstore sales d
 - Line Chart
 - Pie Chart
 
-###  Files 
+###  Report 
 
  
 ![1738345832083-d895c6eb-a26b-45a0-a81a-fb76467a0585_1](https://github.com/user-attachments/assets/ab905c6e-99f4-4e21-8a03-3ba84da283f3)
