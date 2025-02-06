@@ -4,8 +4,8 @@
 
 Data reflects    number of patients,    number of physicians
 
-- [Total Patients](tot_patients.sql)
-- [Query Results](tot_patients.csv)
+- [Total Patients](total_patients.sql)
+- [Query Results](total_patients.csv)
 
 
 
