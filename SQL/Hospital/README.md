@@ -52,9 +52,8 @@ Here are insights that I derived from the analysis of the datasets addressing th
 #### Improving Patient Outcomes
 
 
--  **Reducing Length of Stay (LOS):** Shorter hospital stays can improve patient recovery and reduce risks like infections. Hospitals should optimize discharge planning and post-hospital care.
-  
--  **Common Diagnoses & Specialized Care:** Heart-related ailments ranks top amongst other conditions that the patients are admitted with data showing that congestive heart failure, myocardial infarction, and chest pain are the highest treated for admitted patients. 450  Investing in cardiovascular care, early intervention programs, and specialized doctors can enhance patient treatment.   
+ 
+-  **Common Diagnoses & Specialized Care:** Heart-related ailments ranks top amongst other conditions that the patients are admitted with data showing that congestive heart failure, myocardial infarction, and chest pain are the highest treated for admitted patients.450  Investing in cardiovascular care, early intervention programs, and specialists can support this need.
 
 -  **Age Group:***  THe highest admission rates are with senior patients (65+) for various chronic conditions. Eldercare services, and chronic disease management should be a focus. An increasing segment ages 35-44 are being admitted for various conditions. Hospitals should implement outreach programs to encourage preventive screening to the younger adult segment.
 
