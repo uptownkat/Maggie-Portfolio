@@ -4,13 +4,15 @@
 
 Data reflects    number of patients,    number of physicians
 
-[Total Patients](tot_patients.sql)
-[Query Results](tot_patients.csv)
+- [Total Patients](tot_patients.sql)
+- [Query Results](tot_patients.csv)
 
 
-[Total Physicans](tot_doc.sql)
-[Query Results](tot_doc.csv)
 
+- [Total Physicans](tot_doc.sql)
+  
+- [Query Results](tot_doc.csv)
+ 
 
 
 
