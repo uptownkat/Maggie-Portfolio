@@ -4,10 +4,9 @@
 # Hospital Efficiency Project 
 
 ##     Overview  
-This is a diagnostic analytics project using SQL to explore several issues related to the work within a hospital network in Canada. The datasets provide information on  patient diagnosis, length of admissions, physician performance, regional demographics, to name a few. The goal here was to garner insights as much insights from these data sets to establish recommendations and implications as it relates to improving patient care and physician performance, and optimization of hospital operations.   
+This diagnostic analytics project explores various operational and performance-related challenges within a fictitious hospital network in Canada using Microsoft SQL Server. The dataset includes information on patient diagnoses, admission lengths, physician performance, regional demographics, and more. Through a series of SQL queries, I extracted key insights and developed recommendations aimed at improving patient care, enhancing physician performance, and optimizing hospital operations.
 
 ###    Issues to Solve
-
 - How can hospital improve patient outcomes? 
 - How can hospital allocate resources across different regions?
 - How can hospital improve preparation for volume of admissions?
