@@ -95,7 +95,7 @@ Orthopaedic Surgeon, and internist each.**
 - [Query Results](top2019_diag.csv)
 
 
-**Overall the conditions that are being treated least include: 
+**Overall the conditions that are being treated least include**
 
 - [Least # cases 2018](leastadm2018.sql)
 - [Query Results](leastad2018.csv)
