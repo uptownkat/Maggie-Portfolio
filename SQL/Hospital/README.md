@@ -45,9 +45,9 @@ This diagnostic analytics project explores various operational and performance-r
 - and more
 
 
-###   Insights
+###   Insights & Recommendations
 
-Here are insights that I derived from the analysis of the datasets addressing the issues that can help this hospital network to streamline operatures, allocate reources, and implement data-driven strategies to improve patient outcomes.  
+Here are insights that I derived from the analysis of the datasets addressing the issues that can help this hospital network to streamline operatures, allocate resources, and implement data-driven strategies to improve patient outcomes.  
 
 #### Improving Patient Outcomes
 
