@@ -1,6 +1,17 @@
 # SQL Query Syntax (Microsoft SqL Server)
 
-## Explore Data
+### Explore Data
+
+Data reflects    number of patients,    number of physicians
+
+[Total Patients](tot_patients.sql)
+[Query Results](tot_patients.csv)
+
+
+[Total Physicans](tot_doc.sql)
+[Query Results](tot_doc.csv)
+
+
 
 
 Time 2018- 2019
