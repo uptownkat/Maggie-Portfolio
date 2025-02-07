@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio! Here, I showcase my expertise in SQL, Py
     
 
 ### 🔹 Predictive Analysis  
-- [Sales Pipeline Analysis (Quicksight)](Quicksight/Project/Salespipeline.README.md)
+- [Sales Pipeline Analysis (Quicksight)](Quicksight/Project/Salespipeline/README.md)
 - [Edtech Retention and Churn Analysis (Power BI)](
 
 ### 🔹 Prescriptive Analysis   
