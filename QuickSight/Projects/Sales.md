@@ -1,4 +1,5 @@
- 
+ ![header](https://github.com/user-attachments/assets/835c9c84-a17e-49a4-8858-b05bfa0b5179)
+
 # Sales Forecast Project  
 
 ### Overview  
