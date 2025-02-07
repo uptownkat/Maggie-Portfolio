@@ -6,7 +6,7 @@
 ###     Overview  
 This diagnostic analytics project explores various operational and performance-related challenges within a fictitious hospital network in Canada using Microsoft SQL Server. The dataset includes information on patient diagnoses, admission lengths, physician performance, regional demographics, and more. Through a series of SQL queries, I extracted key insights and developed recommendations aimed at improving patient care, enhancing physician performance, and optimizing hospital operations.
 
-###    Issues to Solve
+###    Issues 
 - How can hospital improve patient outcomes? 
 - How can hospital allocate resources across different regions?
 - How can hospital improve preparation for volume of admissions?
