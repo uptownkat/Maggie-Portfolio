@@ -1,6 +1,6 @@
 ![Screenshot 2025-02-07 at 3 10 17 AM](https://github.com/user-attachments/assets/ac0da32c-3a5a-460b-ae51-72d4756e1201)
 
-# Sales Forecast Project  
+# Sales Forecast Report (Amazon QuickSight)
 
 ### Overview  
 This project I created a sales dashboard for a sales manager or executive to analyze This project is a sales Pipeline project as used by sales manager analysing closed business, prospects, and losses. This example is for a computer hardware company, where I used python to create an interactive chart to tract team's quarterly and year's performance and allowing for analsysis of past and current sales data as well as predict future 
