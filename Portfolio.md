@@ -17,12 +17,12 @@ Welcome to my data analytics portfolio! Here, I showcase my expertise in SQL, Py
     
 
 ## 🔹 Predictive Analysis  
-- [Sales Forecasting Model (Python)](Python/SalesForecast.md)
-- [Edtech Retention and Churn Project (Power BI)](
+- [Sales Pipeline Model (Python)](Python/SalesForecast.md)
+- [Edtech Retention and Churn Analysis (Power BI)](
 
 ## 🔹 Prescriptive Analysis   
-- [CeraVe E-commerce (Excel)](Excel/Projects/README.cerave.md)
-- [Superstore Sales Performance (Excel)](Excel/Projects/README.superstore.md)  
+- [CPG E-commerce Report (Excel)](Excel/Projects/README.cerave.md)
+- [Retail Sales Performance Report(Excel)](Excel/Projects/README.superstore.md)  
 
 
  
