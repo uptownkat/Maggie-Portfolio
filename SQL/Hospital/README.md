@@ -1,9 +1,9 @@
 
 ![Screenshot 2025-01-31 at 4 51 13 PM](https://github.com/user-attachments/assets/12f74564-4335-4d37-be5f-ebc121950525)
 
-# Hospital Efficiency Project (Microsoft SQL Server)
+## Hospital Efficiency Project (Microsoft SQL Server)
 
-##     Overview  
+###     Overview  
 This diagnostic analytics project explores various operational and performance-related challenges within a fictitious hospital network in Canada using Microsoft SQL Server. The dataset includes information on patient diagnoses, admission lengths, physician performance, regional demographics, and more. Through a series of SQL queries, I extracted key insights and developed recommendations aimed at improving patient care, enhancing physician performance, and optimizing hospital operations.
 
 ###    Issues to Solve
