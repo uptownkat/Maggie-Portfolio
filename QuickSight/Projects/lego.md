@@ -1,6 +1,6 @@
  ![Screenshot 2025-01-31 at 5 25 18 PM](https://github.com/user-attachments/assets/96d75472-01ec-410b-a65e-2d94890d112d)
 
-## Lego Sets Dashboard
+## Lego Sets Dashboard (Amazon QuickSight)
 Overview  
 Using Amazon Quicksight, I create a LEGO interactive dashboard that explore thousands of sets released by the company from 1970 to 2022. I started with cleaning and preparing the data  
 using Python (pandas). This project is a fruitful exercise of descriptive analysis using these tools.
