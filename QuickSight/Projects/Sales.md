@@ -1,4 +1,4 @@
- ![header](https://github.com/user-attachments/assets/835c9c84-a17e-49a4-8858-b05bfa0b5179)
+![Screenshot 2025-02-07 at 3 10 17 AM](https://github.com/user-attachments/assets/ac0da32c-3a5a-460b-ae51-72d4756e1201)
 
 # Sales Forecast Project  
 
