@@ -18,11 +18,11 @@ This reports consists of four dashboards: user demographics, Subscription and En
 ### Datasets
 
 5 Tables, 500 rows 
-- Student Data (Student_ID, Country,
-- DateTable (ProductID, CategoryID, Cost, Price)
+- Student Data  
+- DateTable  
 - Country - Continent
-- Engagement Data (Sign-up d
--Subscription Plans (
+- Engagement Data  
+- Subscription Plans  
 
 ### Analysis & JK
 
