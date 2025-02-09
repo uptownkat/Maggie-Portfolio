@@ -4,6 +4,7 @@
 Leveraging the datasets in this analysis, I created several DAX calculations through measures and columns to highlight through visuazlation
 
 https://github.com/user-attachments/assets/52938075-30e7-4f49-9f48-379ddc351238
+![model](https://github.com/user-attachments/assets/c7f99b17-0a4f-452f-a44e-a20c1adfeee3)
 
 These included:
 
