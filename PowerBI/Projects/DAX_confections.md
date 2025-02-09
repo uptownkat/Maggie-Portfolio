@@ -3,18 +3,20 @@
 
 Leveraging the datasets in this analysis, I created several DAX calculations through measures and columns to highlight through visuazlation
 
-https://github.com/user-attachments/assets/52938075-30e7-4f49-9f48-379ddc351238
-![model](https://github.com/user-attachments/assets/c7f99b17-0a4f-452f-a44e-a20c1adfeee3)
+ ![model](https://github.com/user-attachments/assets/c7f99b17-0a4f-452f-a44e-a20c1adfeee3)
 
-These included:
+Some calculations are as outlined: 
 
-Total Revenue
+- Total Revenue
 
-Total Revenue = SUMX(
+    Total Revenue = SUMX( 
     'candysales_CA',
     'candysales_CA'[Units] * RELATED('Products'[Product_Price])
 )
-Total Cost!
+
+![Screenshot 2025-02-09 at 4 15 53 PM](https://github.com/user-attachments/assets/1cd6f438-15bf-4517-99f4-01140c570194)
+
+- Total Cost 
 Total Cost = SUMX(
     'candysales_CA',
     'candysales_CA'[Units] * RELATED('Products'[Product_Cost])
