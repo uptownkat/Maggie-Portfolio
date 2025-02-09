@@ -22,7 +22,9 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 - Line & Clustered Column Chart: Profit vs. Revenue Over Time
 - Store performance across cities (Most quantity, highest revenue)
 
-### Visualizations:  
+### Visualizations:
+
+[PBI Dashboards](CandySales.pbix)
 - KPI Card
 - Multi-row Card
 - Bar Chart
@@ -35,7 +37,6 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
  
 
 ### Files  
-- **Power BI File:** [Confection Sales](CandySales.pbix)
 
 ### Dashboards
 ![Untitled design](https://github.com/user-attachments/assets/9b99a1e9-2219-4d50-b42a-3ae745e437a5)
