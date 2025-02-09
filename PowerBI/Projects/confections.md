@@ -14,7 +14,7 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 - **Store** (StoreID, StoreName, City)
 
 ### Data Model & DAX 
-[Dax Measures] 
+[Dax Measures](PowerBI/Projects/DAX_confections.md) 
 
 
 ### Analysis & Insights  
