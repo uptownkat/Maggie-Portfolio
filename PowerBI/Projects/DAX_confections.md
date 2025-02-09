@@ -42,11 +42,14 @@ Some calculations are as outlined:
 
 
 **% Sales Growth Month over Month**
+
 ![Screenshot 2025-02-09 at 4 53 57 PM](https://github.com/user-attachments/assets/332965bc-c06e-4bfd-85c5-a169fa4b4ea4)
 
 
  
-Previous Month Sales 
-![Screenshot 2025-02-09 at 4 54 45 PM](https://github.com/user-attachments/assets/fd18320e-1a18-40bd-a938-6df2a2598a31)
+**Previous Month Sales**
 
+![Screenshot 2025-02-09 at 4 59 42 PM](https://github.com/user-attachments/assets/19b21485-18a6-4740-935e-db4fdcf848a6)
+
+ 
  
