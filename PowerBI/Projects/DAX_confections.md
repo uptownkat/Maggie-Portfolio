@@ -13,15 +13,20 @@ Some calculations are as outlined:
 
 **Total Revenue** 
   
-![Screenshot 2025-02-09 at 4 19 17 PM](https://github.com/user-attachments/assets/c660196f-3e00-4e23-a16e-9cb85ba9f75f)
+ 
+     ![Screenshot 2025-02-09 at 4 51 47 PM](https://github.com/user-attachments/assets/a2e66e8c-7c42-41e9-8ce6-ad61da23c4b2)
 
-     
 
 **YTD Sales**
  
-![Screenshot 2025-02-09 at 4 19 26 PM](https://github.com/user-attachments/assets/55d05d30-3871-4885-b473-976cdd163c59)
-
  
+![Screenshot 2025-02-09 at 4 49 50 PM](https://github.com/user-attachments/assets/ae1a57e2-194b-4a8d-93af-d3a82a6edd3a)
+
+ **Total Profit Margin**
+ 
+ 
+ ![Screenshot 2025-02-09 at 4 52 34 PM](https://github.com/user-attachments/assets/a5ecfbdd-c228-4275-a2fa-ebec4b6b6021)
+
  
  
 **Total Cost**
@@ -30,15 +35,17 @@ Some calculations are as outlined:
 
  
 
-** Sales Growth YOY**
+**Sales Growth YOY**
 
 ![Screenshot 2025-02-09 at 4 43 44 PM](https://github.com/user-attachments/assets/c35fbd70-53c1-403a-b227-53dce84a0fe3)
 
 
+**% Sales Growth Month over Month**
+![Screenshot 2025-02-09 at 4 53 57 PM](https://github.com/user-attachments/assets/332965bc-c06e-4bfd-85c5-a169fa4b4ea4)
+
 
  
 Previous Month Sales 
-
-![Screenshot 2025-02-09 at 4 18 31 PM](https://github.com/user-attachments/assets/433cc388-6d57-4169-9685-8042f6e12f19)
+![Screenshot 2025-02-09 at 4 54 45 PM](https://github.com/user-attachments/assets/fd18320e-1a18-40bd-a938-6df2a2598a31)
 
  
