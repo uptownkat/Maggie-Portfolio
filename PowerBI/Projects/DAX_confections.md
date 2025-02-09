@@ -3,6 +3,7 @@
 
 Leveraging the datasets in this project, I created several DAX calculations through measures and columns to highlight through visuazlation insights. 
 ![Screenshot 2025-02-09 at 4 30 54 PM](https://github.com/user-attachments/assets/ec4feb69-400d-4192-a0ac-1c40b3f76c6c)
+![Screenshot 2025-02-09 at 4 31 59 PM](https://github.com/user-attachments/assets/0ae9984c-3af3-4f15-94e6-c239a02647f3)
 
  ![model](https://github.com/user-attachments/assets/c7f99b17-0a4f-452f-a44e-a20c1adfeee3)
 ![Screenshot 2025-02-09 at 4 17 25 PM](https://github.com/user-attachments/assets/04a7cb88-ab35-4db9-be1b-23a4e30991df)
