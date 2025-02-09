@@ -40,10 +40,6 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 ### Dashboards
 
 
-
-![1739080331060-7bd71dff-63df-43c0-a895-e50a435bacc1_1](https://github.com/user-attachments/assets/a9d6d261-4011-4888-8ec5-493548584f57)
-![1739080331060-7bd71dff-63df-43c0-a895-e50a435bacc1_2](https://github.com/user-attachments/assets/2c00be62-1774-46f7-a408-f56934e6ccf8)
-![1739080331060-7bd71dff-63df-43c0-a895-e50a435bacc1_3](https://github.com/user-attachments/assets/14b1dd9a-6793-446d-937d-b255cfc8ab40)
-
- 
-
+![1739133682296-d3139abf-a957-482c-a5f9-73cce3a83b6f_1](https://github.com/user-attachments/assets/6f3db43a-c49a-40f7-9508-02bc1da35b09)
+![1739133682296-d3139abf-a957-482c-a5f9-73cce3a83b6f_2](https://github.com/user-attachments/assets/8e5f1ddf-ce31-4500-9052-7dfb50c267c9)
+![1739133682296-d3139abf-a957-482c-a5f9-73cce3a83b6f_3](https://github.com/user-attachments/assets/d40ebcc5-bc88-4e80-923a-0e8e685e9cd0)
