@@ -51,14 +51,14 @@ Retail performance varies, with specialty candy stores contributing significantl
 Los Angeles, Fresno, and Pasadena are top-performing cities in terms of total profit.
 
 
-Recommendations for Further Exploration:
+### Recommendations for Further Exploration:
 
 
-Seasonality Analysis – Investigate peak sales periods to optimize promotions and inventory.
-Customer Preferences – Analyze purchase patterns by product type and retailer to tailor marketing efforts.
-Profitability Drivers – Assess whether pricing strategies or cost efficiencies contribute more to profit margins.
-Retailer Optimization – Identify underperforming stores and regions to refine distribution strategies.
-Consumer Demographics – Explore who is buying which products (age groups, income levels) for targeted marketing.
+- Seasonality Analysis – Investigate peak sales periods to optimize promotions and inventory.
+- Customer Preferences – Analyze purchase patterns by product type and retailer to tailor marketing efforts.
+- Profitability Drivers – Assess whether pricing strategies or cost efficiencies contribute more to profit margins.
+- Retailer Optimization – Identify underperforming stores and regions to refine distribution strategies.
+- Consumer Demographics – Explore who is buying which products (age groups, income levels) for targeted marketing.
 
 
 These insights can guide data-driven decision-making to enhance revenue growth and profitability.
