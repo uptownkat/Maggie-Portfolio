@@ -20,7 +20,8 @@ Some calculations are as outlined:
 **YTD Sales**
  
  
-![Screenshot 2025-02-09 at 4 49 50 PM](https://github.com/user-attachments/assets/ae1a57e2-194b-4a8d-93af-d3a82a6edd3a)
+ ![Screenshot 2025-02-09 at 4 57 26 PM](https://github.com/user-attachments/assets/de2d73a9-51fe-42da-94e5-1bcbe14e9d62)
+
 
  **Total Profit Margin**
  
