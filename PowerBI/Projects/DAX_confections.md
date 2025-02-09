@@ -13,26 +13,26 @@ Some calculations are as outlined:
 
 **Total Revenue** 
   
- ![Screenshot 2025-02-09 at 4 55 57 PM](https://github.com/user-attachments/assets/1581377f-99d9-4149-93b0-20ccf08f986b)
+![Screenshot 2025-02-09 at 4 55 57 PM](https://github.com/user-attachments/assets/1581377f-99d9-4149-93b0-20ccf08f986b)
 
  
 
 **YTD Sales**
  
  
- ![Screenshot 2025-02-09 at 4 57 26 PM](https://github.com/user-attachments/assets/de2d73a9-51fe-42da-94e5-1bcbe14e9d62)
+![Screenshot 2025-02-09 at 4 57 26 PM](https://github.com/user-attachments/assets/de2d73a9-51fe-42da-94e5-1bcbe14e9d62)
 
 
  **Total Profit Margin**
  
  
- ![Screenshot 2025-02-09 at 4 52 34 PM](https://github.com/user-attachments/assets/a5ecfbdd-c228-4275-a2fa-ebec4b6b6021)
+![Screenshot 2025-02-09 at 4 52 34 PM](https://github.com/user-attachments/assets/a5ecfbdd-c228-4275-a2fa-ebec4b6b6021)
 
  
  
 **Total Cost**
 
-![Screenshot 2025-02-09 at 4 18 57 PM](https://github.com/user-attachments/assets/81aab9f7-6884-4acd-b356-1bf488a6af82)
+![Screenshot 2025-02-09 at 4 58 22 PM](https://github.com/user-attachments/assets/245ab434-9fb0-4190-b7dc-6d1aa85af0f7)
 
  
 
