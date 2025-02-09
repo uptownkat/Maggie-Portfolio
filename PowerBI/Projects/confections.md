@@ -15,7 +15,7 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 
 
 ### Analysis & Insights  
-[Dax Measures](PowerBI/Projects/DAX_confections.md) 
+[Dax Measures](DAX_confections.md) 
 - Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
 - Sales & Profit by Candy Category
 - Monthly Sales Trend (Revenue & Quantity)
