@@ -3,7 +3,7 @@
 
 Leveraging the datasets in this analysis, I created several DAX calculations through measures and columns to highlight through visuazlation
 
-[model](https://github.com/user-attachments/assets/52938075-30e7-4f49-9f48-379ddc351238)
+https://github.com/user-attachments/assets/52938075-30e7-4f49-9f48-379ddc351238
 
 These included:
 
