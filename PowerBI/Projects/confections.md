@@ -13,11 +13,9 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 - **Product** (ProductID, CategoryID, Cost, Price)
 - **Store** (StoreID, StoreName, City)
 
-### Data Model & DAX 
-[Dax Measures](PowerBI/Projects/DAX_confections.md) 
-
 
 ### Analysis & Insights  
+[Dax Measures](PowerBI/Projects/DAX_confections.md) 
 - Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
 - Sales & Profit by Candy Category
 - Monthly Sales Trend (Revenue & Quantity)
