@@ -1,15 +1,13 @@
 
 ## Data Model and DAX Calculations
 
-Leveraging the datasets in this project, I created several DAX calculations through measures and columns to highlight through visuazlation insights. 
+Leveraging the datasets in this project, I created several DAX measures outlined here:
 
 
 
 
 ![Screenshot 2025-02-09 at 4 33 03 PM](https://github.com/user-attachments/assets/455f55ee-1eea-4555-a499-623ff3cfaf46)
-
  
-Some calculations are as outlined: 
 
 **Total Revenue** 
   
