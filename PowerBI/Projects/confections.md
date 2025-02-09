@@ -38,7 +38,10 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 - **Power BI File:** [Confection Sales](CandySales.pbix)
 
 ### Dashboards
+![Untitled design](https://github.com/user-attachments/assets/9b99a1e9-2219-4d50-b42a-3ae745e437a5)
 
+![Untitled design (1)](https://github.com/user-attachments/assets/2ef0457f-28ac-4013-aa46-fefe93038d65)
+![Untitled design (2)](https://github.com/user-attachments/assets/a619d7b5-307d-43e0-af18-30ed9f140a58)
 
 ![1739133682296-d3139abf-a957-482c-a5f9-73cce3a83b6f_1](https://github.com/user-attachments/assets/6f3db43a-c49a-40f7-9508-02bc1da35b09)
 ![1739133682296-d3139abf-a957-482c-a5f9-73cce3a83b6f_2](https://github.com/user-attachments/assets/8e5f1ddf-ce31-4500-9052-7dfb50c267c9)
