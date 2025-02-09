@@ -13,9 +13,9 @@ Some calculations are as outlined:
 
 **Total Revenue** 
   
- 
-     ![Screenshot 2025-02-09 at 4 51 47 PM](https://github.com/user-attachments/assets/a2e66e8c-7c42-41e9-8ce6-ad61da23c4b2)
+ ![Screenshot 2025-02-09 at 4 55 57 PM](https://github.com/user-attachments/assets/1581377f-99d9-4149-93b0-20ccf08f986b)
 
+ 
 
 **YTD Sales**
  
