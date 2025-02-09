@@ -36,9 +36,22 @@ This is a descriptive analysis of candy sales at retail in selected markets in C
 - Line and Clustered Column Chart
 - Slicers
  
-### Summary
+### Key Highlights
 
-The
+Chocolate is the highest revenue-generating category ($48.5M), followed by Hard Candy ($35.6M) and Chew ($26.9M).
+Snickers, Jolly Rancher, and Kit Kat are among the most profitable brands.
+Seasonal trends may influence sales, as revenue fluctuates month-over-month.
+Retail performance varies, with specialty candy stores contributing significantly alongside major retailers like Walmart, Target, and CVS.
+Los Angeles, Fresno, and Pasadena are top-performing cities in terms of total profit.
+Recommendations for Further Exploration:
+Seasonality Analysis – Investigate peak sales periods to optimize promotions and inventory.
+Customer Preferences – Analyze purchase patterns by product type and retailer to tailor marketing efforts.
+Profitability Drivers – Assess whether pricing strategies or cost efficiencies contribute more to profit margins.
+Retailer Optimization – Identify underperforming stores and regions to refine distribution strategies.
+Consumer Demographics – Explore who is buying which products (age groups, income levels) for targeted marketing.
+These insights can guide data-driven decision-making to enhance revenue growth and profitability.
+
+
 ### Dashboards
 ![Untitled design](https://github.com/user-attachments/assets/9b99a1e9-2219-4d50-b42a-3ae745e437a5)
 
