@@ -1,5 +1,6 @@
 
-![Screenshot 2025-02-07 at 3 31 48 AM](https://github.com/user-attachments/assets/8b573fca-d716-429c-800a-3e8c55f64cbe)
+ 
+![Screenshot 2025-02-09 at 12 03 39 AM](https://github.com/user-attachments/assets/3a61e89e-1200-4e82-9630-d7dbcd63365f)
 
  
 
@@ -16,10 +17,12 @@ This reports consists of four dashboards: user demographics, Subscription and En
 
 ### Datasets
 
-3 Tables, 500 rows, 
-Student Data (Student_ID, Country, 
-DateTable (ProductID, CategoryID, Cost, Price)
-Country (Country, Continent)
+5 Tables, 500 rows 
+- Student Data (Student_ID, Country,
+- DateTable (ProductID, CategoryID, Cost, Price)
+- Country - Continent
+- Engagement Data (Sign-up d
+-Subscription Plans (
 
 ### Analysis & JK
 
