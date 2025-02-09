@@ -33,7 +33,7 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
  
 
 ### Files  
-- **Power BI File:** [CandySales.pbix](CandySales.pbix)
+- **Power BI File:** [Confection Sales](CandySales.pbix)
 
 ### Report 
 
