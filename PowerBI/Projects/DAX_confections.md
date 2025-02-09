@@ -34,22 +34,16 @@ Some calculations are as outlined:
 
 ![Screenshot 2025-02-09 at 4 58 22 PM](https://github.com/user-attachments/assets/245ab434-9fb0-4190-b7dc-6d1aa85af0f7)
 
- 
-
-**Sales Growth YOY**
-
-![Screenshot 2025-02-09 at 4 43 44 PM](https://github.com/user-attachments/assets/c35fbd70-53c1-403a-b227-53dce84a0fe3)
-
-
-**% Sales Growth Month over Month**
-
-![Screenshot 2025-02-09 at 4 53 57 PM](https://github.com/user-attachments/assets/332965bc-c06e-4bfd-85c5-a169fa4b4ea4)
-
 
  
 **Previous Month Sales**
 
 ![Screenshot 2025-02-09 at 4 59 42 PM](https://github.com/user-attachments/assets/19b21485-18a6-4740-935e-db4fdcf848a6)
 
- 
+
+
+ **% Sales Growth Month over Month**
+
+![Screenshot 2025-02-09 at 4 53 57 PM](https://github.com/user-attachments/assets/332965bc-c06e-4bfd-85c5-a169fa4b4ea4)
+
  
