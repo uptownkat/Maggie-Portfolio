@@ -47,5 +47,8 @@ FUnnel Charts
 Decomposition Tree
 
 DAX Calculations:
+![connnet1](https://github.com/user-attachments/assets/8efaa8f4-64fb-4660-8c42-e9d5745ff369)
+![connect2](https://github.com/user-attachments/assets/efe9031b-1f65-4971-a2e7-2c306cceff98)
 
+![connect3](https://github.com/user-attachments/assets/d244b8e3-0505-4c6d-995a-8953926d001d)
 
