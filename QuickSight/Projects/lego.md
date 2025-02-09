@@ -3,11 +3,11 @@
 ## Lego Sets Dashboard (Amazon QuickSight)
 Overview  
 Using Amazon Quicksight, I create a LEGO interactive dashboard that explore thousands of sets released by the company from 1970 to 2022. I started with cleaning and preparing the data  
-using Python (pandas). This project is a fruitful exercise of descriptive analysis using these tools.
+using Python (pandas). This project is an example of descriptive analysis using these tools.
 
 ### Datasets
 - **Lego-dataset** 11 columns, 18,457 rows 
-[Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
+- [Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
 
 ###  Analysis  
 - Trend over Time
