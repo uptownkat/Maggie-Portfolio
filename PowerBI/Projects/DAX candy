@@ -1,3 +1,7 @@
+#DAX calculations in Power BI 
+
+# Total Revenue
+
 Total Revenue = SUMX(
     'candysales_CA',
     'candysales_CA'[Units] * RELATED('Products'[Product_Price])
