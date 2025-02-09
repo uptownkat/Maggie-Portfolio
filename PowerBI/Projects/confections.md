@@ -13,15 +13,16 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 - **Product** (ProductID, CategoryID, Cost, Price)
 - **Store** (StoreID, StoreName, City)
 
+### Analysis
 
-### Key Insights  
+### Analysis & Insights  
 - Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
 - Sales & Profit by Candy Category
 - Monthly Sales Trend (Revenue & Quantity)
 - Line & Clustered Column Chart: Profit vs. Revenue Over Time
 - Store performance across cities (Most quantity, highest revenue)
 
-### Visualizations in Power BI
+### Visualizations:  
 - KPI Card
 - Multi-row Card
 - Bar Chart
@@ -36,7 +37,7 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 ### Files  
 - **Power BI File:** [Confection Sales](CandySales.pbix)
 
-### Report 
+### Dashboards
 
 
 
