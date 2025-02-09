@@ -5,9 +5,10 @@
 
 ## Confections Sales Dashboard (Microsoft Power BI) 
 ### Overview  
-In this analysis I built dashboards highlighting the scope of the sales of candy brands at retail in selected markets in California. I used Power BI to analyze sales data on candy sales at retail in various California market with insights on revenue and profits, identifies trends, and performance on stores across different cities. analyzes historical candy sales, identifying trends in revenue, profit, and store performance.   
+In this analysis I built dashboards highlighting the scope of the sales of candy brands at retail in selected markets in California during the period in 2022. I used Power BI to clean, transform, and model the datasets. By creating measures and custom columns using DAX calcuations, I identified insights on revenue and profits, trends, and performance on stores across different cities.
 
-### Datasets
+### Datasets 
+[Confections Datasets](https://www.kaggle.com/datasets/maggieakarn/candy-sales-in-california/settings)
 - **Sales** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
 - **Product** (ProductID, CategoryID, Cost, Price)
 - **Store** (StoreID, StoreName, City)
