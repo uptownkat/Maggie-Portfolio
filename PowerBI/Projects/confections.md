@@ -36,8 +36,6 @@ In this analysis I built dashboards highlighting the scope of the sales of candy
 - Slicer
  
 
-### Files  
-
 ### Dashboards
 ![Untitled design](https://github.com/user-attachments/assets/9b99a1e9-2219-4d50-b42a-3ae745e437a5)
 
