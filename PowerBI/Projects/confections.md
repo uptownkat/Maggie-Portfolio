@@ -35,12 +35,13 @@ I used Power BI to analyze sales data on candy sales at retail in various Califo
 ### Files  
 - **Power BI File:** [CandySales.pbix](CandySales.pbix)
 
-### Report
- 
-![1739079836391-8e61628c-dcb9-4da2-81a4-169ea79fc2d5_1](https://github.com/user-attachments/assets/45cec2e7-3c92-4282-b28c-92f15b755599)
-![1739079836391-8e61628c-dcb9-4da2-81a4-169ea79fc2d5_2](https://github.com/user-attachments/assets/a537d382-fed8-4dc2-9948-9d2b7bc4084b)
-![1739079836391-8e61628c-dcb9-4da2-81a4-169ea79fc2d5_3](https://github.com/user-attachments/assets/c4ee4bac-e2b8-42d6-9665-d3f8a2f95ceb)
+### Report 
 
+
+
+![1739080331060-7bd71dff-63df-43c0-a895-e50a435bacc1_1](https://github.com/user-attachments/assets/a9d6d261-4011-4888-8ec5-493548584f57)
+![1739080331060-7bd71dff-63df-43c0-a895-e50a435bacc1_2](https://github.com/user-attachments/assets/2c00be62-1774-46f7-a408-f56934e6ccf8)
+![1739080331060-7bd71dff-63df-43c0-a895-e50a435bacc1_3](https://github.com/user-attachments/assets/14b1dd9a-6793-446d-937d-b255cfc8ab40)
 
  
 
