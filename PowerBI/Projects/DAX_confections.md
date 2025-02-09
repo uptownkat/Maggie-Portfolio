@@ -30,6 +30,12 @@ Some calculations are as outlined:
 
  
 
+** Sales Growth YOY**
+
+![Screenshot 2025-02-09 at 4 43 44 PM](https://github.com/user-attachments/assets/c35fbd70-53c1-403a-b227-53dce84a0fe3)
+
+
+
  
 Previous Month Sales 
 
