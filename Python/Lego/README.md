@@ -7,9 +7,10 @@ Using Python I extract insights into Lego that explore thousands of sets release
 ### Datasets
 - **Lego-dataset** 11 columns, 18,457 rows 
 - [Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
-- [Data Cleaning/Pandas](2-3-lego-analysis-pandas.ipynb)
+- [Data Cleaning/Pandas](1-3-lego-clean-pandas .ipynb)
 
 ###  Analysis  
+- [Data Analysis/Pandas](
 - Trend over Time
 - Distribution of Prices
 - Relationship between Set Group/Categories and prices
