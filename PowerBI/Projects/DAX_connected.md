@@ -23,6 +23,13 @@ DAX calculations included:
 
 <img width="214" alt="Screenshot 2025-02-09 at 7 43 40 PM" src="https://github.com/user-attachments/assets/db2110db-5dc1-423a-8a74-d26433f5f151" />
 
+
+**Quarter**
+
+
+<img width="245" alt="Screenshot 2025-02-09 at 7 32 51 PM" src="https://github.com/user-attachments/assets/0b673195-eada-46e4-9644-b35a6064bd1c" />
+
+
 **Age**
 
 
@@ -37,5 +44,3 @@ DAX calculations included:
 
 <img width="244" alt="Screenshot 2025-02-09 at 7 45 22 PM" src="https://github.com/user-attachments/assets/02f321aa-db0b-4438-9fbb-74de1320c502" />
 
-
-<img width="245" alt="Screenshot 2025-02-09 at 7 32 51 PM" src="https://github.com/user-attachments/assets/0b673195-eada-46e4-9644-b35a6064bd1c" />
