@@ -4,16 +4,16 @@
 Overview  
 Using Python I extract insights into Lego that explore thousands of sets released by the company from 1970 to 2022. I started with cleaning and preparing the datausing pandas. THen creating visuals matplot. This project is an example of descriptive analysis.
 
-### Datasets
-- **Lego-dataset** 11 columns, 18,457 rows 
+### Datasets 
+- 1 table, 11 columns, 18,457 rows 
 - [Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
-- [Data Cleaning/Pandas](1-3-lego-clean-pandas .ipynb)
+- [Data Cleaning/Pandas](1-3-lego-clean-pandas.ipynb)
 
 ###  Analysis  
 - [Data Analysis/Pandas](2-3-lego-analysis-pandas.ipynb)
-- Trend over Time
-- Distribution of Prices
-- Relationship between Set Group/Categories and prices
+- Average age
+- Most/Least expensive set
+- Set with the most/least number of pieces
 - Relationship between size of sets (pieces) and prices
 - Highest-priced set
 - Popularity over time
