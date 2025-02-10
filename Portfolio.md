@@ -12,7 +12,7 @@ Welcome to my data analytics portfolio! Here, I showcase my expertise in SQL, Py
 
 
 - [Confections Sales Report(Power BI)](PowerBI/Projects/confections.md)
- 
+
  
 - [LEGO Report(Python)](Python/Lego)
 
