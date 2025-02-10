@@ -33,7 +33,7 @@ Using Python I extract insights into Lego that explore thousands of sets release
 ### Insights
 
 Some highlights from this data include: Nearly 18,500 LEGO sets that were released into the market from 1970 to 2022. Each are defined by a specific theme, ie. Star Wars, Collectible Minifigures, City, Promotional. There are a total of 154 different themes, Gear being the largest with over 2832 sets.
-![IX4kR](https://github.com/user-attachments/assets/bef6a45c-486f-4670-9990-a65f2e622e84)
+ 
 ![IX4kR](https://github.com/user-attachments/assets/e5653306-9aae-4249-9239-3874cc4f67cd)
 
 
@@ -42,9 +42,9 @@ Average age of all the sets is 6.6 years old. This excludes sets defined at age 
 
 
 The set with the most pieces is the World Map frin 2021 with near 12,000 pieces. This retails at $249.00. Since the company launched in 1970 the number of sets entering the market has increased exponentially, 40 in 1970 to 967 in 2022, that is a  Price is related to the number of  pieces in a set.
+![Screenshot 2025-02-10 at 3 01 11 AM](https://github.com/user-attachments/assets/45407ad1-6fd3-4c9c-b814-dea1e312599b)
 
-![IX4kR](https://github.com/user-attachments/assets/c0157e75-1deb-4e0e-b643-1e9106611d98)
-
+ 
 
 
 
