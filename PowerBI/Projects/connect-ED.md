@@ -51,27 +51,27 @@ This analysis examines user behavior and performance metrics for a subscription-
  
 ###  Key Highlights 
 
-Subscriber Base & Demographics:
+**Subscriber Base & Demographics**
 
-Total signups: 500 across 42 countries
-Average age: 23.41 years
-Subscription distribution: Free (192, 38.4%), Basic (154, 30.8%), Premium (154, 30.8%)
+- Total signups:  500 across 42 countries
+- Average age:  23.41 years
+- Subscription distribution:  Free (192, 38.4%), Basic (154, 30.8%), Premium (154, 30.8%)
 
-Performance Metrics:
+**Performance Metrics**
 
-Monthly churn rate: 45.45%
-Total enrolled: 327 (65.4%)
-Total cancelled: 173 (34.6%)
-Average time spent: 40.8 minutes
-Satisfaction rating: 6.7/10
+- Monthly churn rate: 45.45%
+- Total enrolled: 327 (65.4%)
+- Total cancelled: 173 (34.6%)
+- Average time spent: 40.8 minutes
+- Satisfaction rating: 6.7/10
 
-Key Insights:
+**Key Insights**
 
-Higher satisfaction scores correlate with Premium subscriptions
-Significant subscriber presence in Asia and Europe
-Age group 21-24 shows strongest enrollment
-Substantial quarterly fluctuations in new signups
-Concerning churn rate indicates retention challenges
+- Higher satisfaction scores correlate with Premium subscriptions
+- Significant subscriber presence in Asia and Europe
+- Age group 21-24 shows strongest enrollment
+- Substantial quarterly fluctuations in new signups
+- Concerning churn rate indicates retention challenges
 
  
 
