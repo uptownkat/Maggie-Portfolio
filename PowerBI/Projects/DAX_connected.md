@@ -36,7 +36,9 @@ DAX calculations included:
 <img width="214" alt="Screenshot 2025-02-09 at 7 43 40 PM" src="https://github.com/user-attachments/assets/db2110db-5dc1-423a-8a74-d26433f5f151" />
 
 
-**Quarter**
+**Quarter (date)**
+
+
 <img width="348" alt="Screenshot 2025-02-09 at 7 42 55 PM" src="https://github.com/user-attachments/assets/7dbf42ce-c5b8-4aab-a5d1-2a74942e3d45" />
 
 
