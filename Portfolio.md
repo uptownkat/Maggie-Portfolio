@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! Here, I showcase my expertise in SQL, Py
 
 ### 🔹 Descriptive Analysis  
 - [Confections Sales Report  
-- [LEGO Sets Dashboard (Python, QuickSight)](QuickSight/Projects/lego.md)
+- [LEGO Sets Dashboard](Python/Lego)
 
 ### 🔹 Diagnostic Analysis  
 - [Hospital Efficiency Project (SQL)](SQL/Hospital/README.md)
