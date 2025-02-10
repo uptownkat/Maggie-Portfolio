@@ -26,6 +26,12 @@ DAX calculations included:
 
 **Quarter**
 
+<img width="244" alt="Screenshot 2025-02-09 at 7 45 22 PM" src="https://github.com/user-attachments/assets/02f321aa-db0b-4438-9fbb-74de1320c502" />
+
+
+**Total Canceled**
+
+
 
 <img width="245" alt="Screenshot 2025-02-09 at 7 32 51 PM" src="https://github.com/user-attachments/assets/0b673195-eada-46e4-9644-b35a6064bd1c" />
 
@@ -42,5 +48,4 @@ DAX calculations included:
 <img width="348" alt="Screenshot 2025-02-09 at 7 42 55 PM" src="https://github.com/user-attachments/assets/7dbf42ce-c5b8-4aab-a5d1-2a74942e3d45" />
 
 
-<img width="244" alt="Screenshot 2025-02-09 at 7 45 22 PM" src="https://github.com/user-attachments/assets/02f321aa-db0b-4438-9fbb-74de1320c502" />
 
