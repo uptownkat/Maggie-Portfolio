@@ -12,9 +12,15 @@ DAX calculations included:
 
 **Average Subscription Length**
 <img width="230" alt="Screenshot 2025-02-09 at 7 41 24 PM" src="https://github.com/user-attachments/assets/110d626e-e4f8-46ce-9d0e-9802bef52d68" />
+
+**Date Table**
 <img width="214" alt="Screenshot 2025-02-09 at 7 43 40 PM" src="https://github.com/user-attachments/assets/db2110db-5dc1-423a-8a74-d26433f5f151" />
+
+**Age**
 <img width="211" alt="Screenshot 2025-02-09 at 7 45 01 PM" src="https://github.com/user-attachments/assets/336a3cac-b501-40ca-8a9a-240cc38e9404" />
 
+
+**Age Range**
 <img width="348" alt="Screenshot 2025-02-09 at 7 42 55 PM" src="https://github.com/user-attachments/assets/7dbf42ce-c5b8-4aab-a5d1-2a74942e3d45" />
 
 
