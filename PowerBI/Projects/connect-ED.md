@@ -24,8 +24,10 @@ This reports consists of four dashboards: user demographics, Subscription and En
 - Engagement Data  
 - Subscription Plans  
 
-### Analysis 
+### Analysis  
+
  
+
 - Profile on users, demographics- age, country
 - Volume of sign-up users, enrolling users, and cancelling users
 - Age breakdown on subscription type
