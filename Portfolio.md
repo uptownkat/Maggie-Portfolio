@@ -11,7 +11,7 @@ Welcome to my data analytics portfolio! Here, I showcase my expertise in SQL, Py
 ### 🔹 Descriptive Analysis  
 
 
-- [Confections Sales Report](confections.md)
+- [Confections Sales Report(Power BI)](PowerBI/Projects/confections.md)
  
  
 - [LEGO Report(Python)](Python/Lego)
