@@ -35,8 +35,7 @@ This project explores thousands of LEGO sets released between 1970 and 2022, ana
 
 - [Scatterplot]![Screenshot 2025-02-10 at 2 44 57 AM](https://github.com/user-attachments/assets/2bab2f97-a089-4e16-885a-6d5a3435eed8)
 
-- [Line Chart]![Screenshot 2025-02-10 at 2 44 57 AM](https://github.com/user-attachments/assets/e4ab024b-641b-45cb-abac-670a1950cac4)
-
+- [Line Chart]! 
 
 
  
