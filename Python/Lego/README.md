@@ -41,6 +41,10 @@ Average age of all the sets is 6.6 years old. This excludes sets defined at age 
 The set with the most pieces is the World Map frin 2021 with near 12,000 pieces. This retails at $249.00. Since the company launched in 1970 the number of sets entering the market has increased exponentially, 40 in 1970 to 967 in 2022, that is a  Price is related to the number of  pieces in a set.
 
 
+### Dashboard (Amazon Quicksight)
+
+Here is a screenshot of an dynamic dashboard with searchable data as outlined in this report on all Lego sets including links to images. 
+
 
  
 
