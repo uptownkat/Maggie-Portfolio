@@ -12,34 +12,37 @@ Using Python I extract insights into Lego that explore thousands of sets release
 ###  Analysis  
 - [Data Analysis/Pandas](2-3-lego-analysis-pandas.ipynb)
 - Average age
+- Average price
+- Total number of Sets
 - Most/Least expensive set
 - Set with the most/least number of pieces
-- Relationship between size of sets (pieces) and prices
-- Highest-priced set
-- Popularity over time
-- Key Targets based on age groups 
+- Number of sets per theme
+- Number of sets per category
  
+ 
+###  Visualizations 
 
-###  Visualizations in QuickSight
-- KPI Card
-- Multi-row Card
-- Bar Chart
+- [Visualizations/Matplot](3-3-lego-viz-matplot.ipynb)
+- Bar Charts
+- Pie Charts
+- Scatterplot
 - Line Chart
-- Waterfall Chart
-- Stacked Bar Chart
-- Waterfall Chart
-- Line and Clustered Column Chart
-- Slicer
+- Dynamic Dashboard (Quicksight)
+
+ 
+### Insights
+
+Some highlights from this data include: Nearly 18,500 LEGO sets that were released into the market from 1970 to 2022. Each are defined by a specific theme, ie. Star Wars, Collectible Minifigures, City, Promotional. There are a total of 154 different themes, Gear being the largest with over 2832 sets.
+
+
+Average age of all the sets is 6.6 years old. This excludes sets defined at age 0. The highest distribution fall between the ages of 5-8. Average price of a lego set is nearly $14.00. The most expensive set is Millennium Falcon fron the Star Wars theme and Ultimate Collector Series. This was launched in 2017 at a price o $849.00 wiht over 7,500 pieces.
+
+
+The set with the most pieces is the World Map frin 2021 with near 12,000 pieces. This retails at $249.00. Since the company launched in 1970 the number of sets entering the market has increased exponentially, 40 in 1970 to 967 in 2022, that is a  Price is related to the number of  pieces in a set.
+
+
+
  
 
-###  Files  
-**Python:** Cleaned and Transformed Dataset using Pandas
-- [Kaggle Link](https://www.kaggle.com/code/maggieakarn/lego-cleaning-dataframe-pandas)
 
-- [Git Link](Python/lego-cleaning-dataframe-pandas.ipynb)
-
-
-- **Quicksight:** Analysis and Visualization using AWS Quicksight 
-
-###  Report
  
