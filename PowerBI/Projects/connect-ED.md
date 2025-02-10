@@ -50,7 +50,16 @@ This reports consists of four dashboards: user demographics, Subscription and En
 - Pie Charts
 - Funnel Charts
 - Decomposition Tree
+
+  
  
+###  Summary 
+
+The high churn rate (45.45%) suggests potential engagement or retention issues.
+The subscription distribution is evenly split between Free, Basic, and Premium users.
+Young adults (18-24 years) dominate the user base. Higher satisfaction correlates with longer engagement.
+Global reach with users from 42 countries but potential variations in engagement by region.
+
 ![connnet1](https://github.com/user-attachments/assets/8efaa8f4-64fb-4660-8c42-e9d5745ff369)
 ![connect2](https://github.com/user-attachments/assets/efe9031b-1f65-4971-a2e7-2c306cceff98)
 
