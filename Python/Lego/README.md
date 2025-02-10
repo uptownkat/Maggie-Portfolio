@@ -9,7 +9,7 @@ This project explores thousands of LEGO sets released between 1970 and 2022, ana
 ### Datasets 
 - 1 table, 11 columns, 18,457 rows 
 - [Lego Sets Dataset](https://www.kaggle.com/datasets/maggieakarn/lego-dataset)
-- [Data Cleaning/Pandas](1-3-lego-clean-pandas.ipynb)
+- [Data Cleaning/Pandas](1-3-lego-clean-pandas .ipynb)
 
 
 ###  Analysis  
