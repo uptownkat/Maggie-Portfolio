@@ -11,10 +11,10 @@ Welcome to my data analytics portfolio! Here, I showcase my expertise in SQL, Py
 ### 🔹 Descriptive Analysis  
 
 
-- [Confections Sales Report(Power BI)](PowerBI/Projects/confections.md)
+- [Confections Sales Report (Power BI)](PowerBI/Projects/confections.md)
 
  
-- [LEGO Report(Python)](Python/Lego)
+- [LEGO Report (Python)](Python/Lego)
 
 ### 🔹 Diagnostic Analysis  
 - [Hospital Efficiency Project (SQL)](SQL/Hospital/README.md)
@@ -22,11 +22,11 @@ Welcome to my data analytics portfolio! Here, I showcase my expertise in SQL, Py
 
 ### 🔹 Predictive Analysis  
 - [Sales Pipeline Analysis (Quicksight)](QuickSight/Projects/Sales.md)
-- [Edtech Retention and Churn Analysis (Power BI)](
+- [Edtech Retention/Churn Analysis (Power BI)](PowerBI/Projects/connect-ED.md) 
 
 ### 🔹 Prescriptive Analysis   
 - [CPG e-Commerce Report (Excel)](Excel/Projects/README.cerave.md)
-- [Retail Sales Performance Report(Excel)](Excel/Projects/README.superstore.md)  
+- [Retail Sales Performance Report (Excel)](Excel/Projects/README.superstore.md)  
 
 
  
