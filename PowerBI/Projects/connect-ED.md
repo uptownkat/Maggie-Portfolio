@@ -5,7 +5,7 @@
  
 
 
-## Edtech User Acquisition and Retention Report (Microsoft Power BI)
+## Edtech Acquisition and Retention Report (Microsoft Power BI)
 
 
 ### Overview
@@ -25,29 +25,29 @@ This reports consists of four dashboards: user demographics, Subscription and En
 - Subscription Plans  
 
 ### Analysis 
+ 
+- Profile on users, demographics- age, country
+- Volume of sign-up users, enrolling users, and cancelling users
+- Age breakdown on subscription type
+- Trend of active users throughout the year
+- Time spent based on Country, Subscription type
+- Comparing satisfaction scores with variables (time spent, subscription-type, etc.)
 
-Key Insights
-- Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit
-=Sales & Profit by Candy Category
-Monthly Sales Trend (Revenue & Quantity)
-Line & Clustered Column Chart: Profit vs. Revenue Over Time
-Store performance across cities (Most quantity, highest revenue)
-
+ 
 
 ### Visualizations 
 
-KPI Cards
-Bar Charts
-Clustered Bar Charts
-Scatter Plot
-Line Charts
-Heat Maps
-Map
-Pie Charts
-Funnel Charts
-Decomposition Tree
-
-DAX Calculations:
+- KPI Cards
+- Bar Charts
+- Clustered Bar Charts
+- Scatter Plot
+- Line Charts
+- Heat Maps
+- Map
+- Pie Charts
+- Funnel Charts
+- Decomposition Tree
+ 
 ![connnet1](https://github.com/user-attachments/assets/8efaa8f4-64fb-4660-8c42-e9d5745ff369)
 ![connect2](https://github.com/user-attachments/assets/efe9031b-1f65-4971-a2e7-2c306cceff98)
 
