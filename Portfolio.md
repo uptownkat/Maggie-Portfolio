@@ -14,7 +14,7 @@ Welcome to my data analytics portfolio. Here, I showcase my expertise in SQL, Py
 - [Confections Sales Report (Power BI)](PowerBI/Projects/confections.md)
 
  
-- [LEGO Report (Python)](Python/Lego)
+- [LEGO Report (Python)](Python/Lego.md)
 
 ### 🔹 Diagnostic Analysis  
 - [Hospital Efficiency Project (SQL)](SQL/Hospital/README.md)
