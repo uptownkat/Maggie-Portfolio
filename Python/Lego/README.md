@@ -36,10 +36,8 @@ Some highlights from this data include: Nearly 18,500 LEGO sets that were releas
   
 
 Average age of all the sets is 6.6 years old. This excludes sets defined at age 0. The highest distribution fall between the ages of 5-8. Average price of a lego set is nearly $14.00. The most expensive set is Millennium Falcon fron the Star Wars theme and Ultimate Collector Series. This was launched in 2017 at a price o $849.00 wiht over 7,500 pieces.
-
-                ![lego starwars](https://github.com/user-attachments/assets/b0f401b2-9648-412f-b0ea-fa0fcd9b27fd)
-
-
+ 
+![lego starwars](https://github.com/user-attachments/assets/89f4c87e-2a54-4dd0-a40a-87c8e6a1d77f)
 
 The set with the most pieces is the World Map frin 2021 with near 12,000 pieces. This retails at $249.00. Since the company launched in 1970 the number of sets entering the market has increased exponentially, 40 in 1970 to 967 in 2022, that is a  Price is related to the number of  pieces in a set.
  
