@@ -26,6 +26,7 @@ This reports consists of four dashboards: user demographics, Subscription and En
 
 ### Analysis  
 
+[Model & Dax](DAX_connected.md)
  
 
 - Profile on users, demographics- age, country
