@@ -9,11 +9,7 @@
 
 
 ### Overview
-
-This is a  prepared using Power BI on a subscription based eucational technology platform called connect-ED which I developed in 2020 for non-native English langualge learners to improve converations skills.
-
-This reports consists of four dashboards: user demographics, Subscription and Enrollemnt trends, Engagement analytics, Retentiion and Church analysis, and Student LTV and predictive insights.
- 
+This analysis examines user behavior and performance metrics for a subscription-based educational technology platform, leveraging Power BI's visualization capabilities and custom DAX calculations. The study focuses on user profiles, engagement patterns, and subscription dynamics across 500 users from 42 countries. Key areas explored include churn prediction, lifetime value analysis, and satisfaction metrics, providing actionable insights for platform optimization and user retention strategies.
 
 ### Datasets
 
@@ -53,13 +49,31 @@ This reports consists of four dashboards: user demographics, Subscription and En
 
   
  
-###  Summary 
+###  Key Highlights 
 
-The high churn rate (45.45%) suggests potential engagement or retention issues.
-The subscription distribution is evenly split between Free, Basic, and Premium users.
+Subscriber Base & Demographics:
 
-Young adults (18-24 years) dominate the user base. Higher satisfaction correlates with longer engagement.
-Global reach with users from 42 countries but potential variations in engagement by region.
+Total signups: 500 across 42 countries
+Average age: 23.41 years
+Subscription distribution: Free (192, 38.4%), Basic (154, 30.8%), Premium (154, 30.8%)
+
+Performance Metrics:
+
+Monthly churn rate: 45.45%
+Total enrolled: 327 (65.4%)
+Total cancelled: 173 (34.6%)
+Average time spent: 40.8 minutes
+Satisfaction rating: 6.7/10
+
+Key Insights:
+
+Higher satisfaction scores correlate with Premium subscriptions
+Significant subscriber presence in Asia and Europe
+Age group 21-24 shows strongest enrollment
+Substantial quarterly fluctuations in new signups
+Concerning churn rate indicates retention challenges
+
+ 
 
 ![connnet1](https://github.com/user-attachments/assets/8efaa8f4-64fb-4660-8c42-e9d5745ff369)
 ![connect2](https://github.com/user-attachments/assets/efe9031b-1f65-4971-a2e7-2c306cceff98)
