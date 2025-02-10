@@ -27,15 +27,20 @@ This project explores thousands of LEGO sets released between 1970 and 2022, ana
 
 [Visualizations/Matplot](3-3-lego-viz-matplot.ipynb)
 
-- [Horizontal Bar Chart]![Screenshot 2025-02-10 at 2 44 29 AM](https://github.com/user-attachments/assets/97188699-1de2-4430-9170-cbb5e4c29b0b)
+- Bar Charts
+- Pie Chart
+- Scatterplot
+- Line Chart
+
+![Screenshot 2025-02-10 at 2 44 29 AM](https://github.com/user-attachments/assets/97188699-1de2-4430-9170-cbb5e4c29b0b)
   
-- [Vertical Bar Chart]![Screenshot 2025-02-10 at 2 44 09 AM](https://github.com/user-attachments/assets/aa382e6e-5c77-4c78-9876-338bf1a8ac49)
+![Screenshot 2025-02-10 at 2 44 09 AM](https://github.com/user-attachments/assets/aa382e6e-5c77-4c78-9876-338bf1a8ac49)
 
-- [Pie Charts]![Screenshot 2025-02-10 at 2 44 41 AM](https://github.com/user-attachments/assets/c9a22d2f-0fd4-421c-a5c1-232b382585d7)
+![Screenshot 2025-02-10 at 2 44 41 AM](https://github.com/user-attachments/assets/c9a22d2f-0fd4-421c-a5c1-232b382585d7)
 
-- [Scatterplot]![Screenshot 2025-02-10 at 2 44 57 AM](https://github.com/user-attachments/assets/2bab2f97-a089-4e16-885a-6d5a3435eed8)
+![Screenshot 2025-02-10 at 2 44 57 AM](https://github.com/user-attachments/assets/2bab2f97-a089-4e16-885a-6d5a3435eed8)
 
-- [Line Chart]! 
+ 
 
 
  
