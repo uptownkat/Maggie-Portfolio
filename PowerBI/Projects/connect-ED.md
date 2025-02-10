@@ -12,29 +12,30 @@
 
 This is a  prepared using Power BI on a subscription based eucational technology platform called connect-ED which I developed in 2020 for non-native English langualge learners to improve converations skills.
 
-This reports consists of four dashboards: user demographics, Subscription and Enrollemnt trends, Engagementa analytics, Retentiion and Church analysis, and Student LTV and predictive insights.
+This reports consists of four dashboards: user demographics, Subscription and Enrollemnt trends, Engagement analytics, Retentiion and Church analysis, and Student LTV and predictive insights.
  
 
 ### Datasets
 
-5 Tables, 500 rows 
+[5 Tables, 500 rows](https://www.kaggle.com/datasets/maggieakarn/edtech-engagement-data/settings)
 - Student Data  
 - DateTable  
 - Country - Continent
 - Engagement Data  
 - Subscription Plans  
 
-### Analysis & JK
+### Analysis 
 
 Key Insights
-Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
-Sales & Profit by Candy Category
+- Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit
+=Sales & Profit by Candy Category
 Monthly Sales Trend (Revenue & Quantity)
 Line & Clustered Column Chart: Profit vs. Revenue Over Time
 Store performance across cities (Most quantity, highest revenue)
 
 
-### Visualizations in Power BI
+### Visualizations 
+
 KPI Cards
 Bar Charts
 Clustered Bar Charts
@@ -43,7 +44,7 @@ Line Charts
 Heat Maps
 Map
 Pie Charts
-FUnnel Charts
+Funnel Charts
 Decomposition Tree
 
 DAX Calculations:
