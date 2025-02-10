@@ -57,6 +57,7 @@ This reports consists of four dashboards: user demographics, Subscription and En
 
 The high churn rate (45.45%) suggests potential engagement or retention issues.
 The subscription distribution is evenly split between Free, Basic, and Premium users.
+
 Young adults (18-24 years) dominate the user base. Higher satisfaction correlates with longer engagement.
 Global reach with users from 42 countries but potential variations in engagement by region.
 
@@ -65,3 +66,4 @@ Global reach with users from 42 countries but potential variations in engagement
 
 ![connect3](https://github.com/user-attachments/assets/d244b8e3-0505-4c6d-995a-8953926d001d)
 
+![connected3](https://github.com/user-attachments/assets/5b48dacc-45eb-46e0-98cc-593910ddc041)
