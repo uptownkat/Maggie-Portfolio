@@ -1,5 +1,5 @@
 
-I created a Date Table to analyse monthly and quarterly trends. Below are some key DAX formulas used to garner insights.
+I created a Date Table to analyse monthly and quarterly trends including several DAX calculations to uncover insights. See below for a few of the explicit measures and calculated columns used.
 
 <img width="719" alt="Screenshot 2025-02-09 at 7 35 45 PM" src="https://github.com/user-attachments/assets/7b9ee664-cd5e-4037-96f6-7cb067da9519" />
 
