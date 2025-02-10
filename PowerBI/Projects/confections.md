@@ -17,11 +17,11 @@ This is a descriptive analysis of candy sales at retail in selected markets in C
 
 ### Analysis   
 [Dax Measures](DAX_confections.md) 
-- Top 10 Best-Selling Candy Products (by Revenue, Quantity, Profit)
+- Top selling brands (by Revenue, Quantity, Profit)
 - Sales & Profit by Candy Category
-- Monthly Sales Trend (Revenue & Quantity)
-- Line & Clustered Column Chart: Profit vs. Revenue Over Time
-- Store performance across cities (Most quantity, highest revenue)
+- Monthly sales trend (Revenue & Quantity)
+- Trend of profit vs. revenue over time
+- Store performance across cities (highest quantity, highest revenue)
 
 ### Visualizations:
 
