@@ -10,7 +10,7 @@ Using Python I extract insights into Lego that explore thousands of sets release
 - [Data Cleaning/Pandas](1-3-lego-clean-pandas .ipynb)
 
 ###  Analysis  
-- [Data Analysis/Pandas](
+- [Data Analysis/Pandas](2-3-lego-analysis-pandas.ipynb)
 - Trend over Time
 - Distribution of Prices
 - Relationship between Set Group/Categories and prices
