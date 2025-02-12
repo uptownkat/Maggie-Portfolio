@@ -2,12 +2,11 @@
 
 ## CeraVe e-Commerce 
 ### Overview  
-This was an analytics project which I completed in training course last year. The objective ‬ 
-‭was to improve user engagement and retention on CeraVe's e-commerce platform using advanced‬
-data analytics through Excel.  
+This was an analytics project which I completed in a training course in 2024.  The objective ‬ 
+‭was to improve user engagement and retention on CPG brand CeraVe's e-commerce platform using Advanced analytics functionality on Excel. 
 ‭
 
-‬‭The assigment would summarize key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers.
+‬‭The assigment summarizes key takeaways and strategies that would serve different stakeholders, ie.  Product Managers, Data Analysts, Engineers, Marketing, Customers.
 ‭  
 ### Datasets
 - **Sales** (OrderID, Sales Date, Category, Product, Quantity, StoreID)
