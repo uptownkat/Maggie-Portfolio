@@ -31,5 +31,5 @@ Welcome to my data analytics portfolio. Here, I showcase my expertise in SQL, Py
 
  
 ### Contact
-[Resume](CV.md) | [LinkedIn](https://www.linkedin.com/in/maggiearhee212/) | [Portfolio](https://github.com/uptownkat/Maggie-Portfolio) 
+[Resumé](CV.md) | [LinkedIn](https://www.linkedin.com/in/maggiearhee212/) | [Portfolio](https://github.com/uptownkat/Maggie-Portfolio) 
  
