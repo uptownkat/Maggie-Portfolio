@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio. Here, I showcase my expertise in SQL, Py
 
 ### 🔹 Descriptive Analysis  
 
-- [Google Search Analysis](Python/Google.md)
+- [Google Search Analysis (Python)](Python/Google.md)
 - [Confections Sales Report (Power BI)](PowerBI/Projects/confections.md)
 - [LEGO Report (Python)](Python/Lego/README.md)
 
