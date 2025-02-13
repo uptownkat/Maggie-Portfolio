@@ -2,9 +2,9 @@
 ![Screenshot 2025-02-13 at 3 42 01 PM](https://github.com/user-attachments/assets/2f53f61e-673d-4ba6-9a1b-2e69f2e263cd)
  
 
-### Google Search Analysis
 
-Google Trends Analysis: Generative AI Interest by Country
+
+### Google Trends Analysis: Generative AI Interest by Country
 
 In this exercise, I analyzed the global search interest of the topic "Generative AI" and identified the top 10 countries where the topic was most popular. The data was retrieved using Google Trends API (Pytrends) and pandas, mattplotlib libraries with result ranked by search volume, with values normalized from 0 to 100, where 100 represents the peak interest for the term. I then created several different charts to illustrate how to showcase this same data visually. 
 
