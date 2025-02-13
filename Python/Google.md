@@ -34,9 +34,8 @@ In this exercise, I analyzed the global search interest of the topic "Generative
 - Pie Chart
   
 
-![Screenshot 2025-02-13 at 3 59 39 PM](https://github.com/user-attachments/assets/20095082-dbcb-4f6b-b3db-8c65f708cb36)
 
-Summary
+#### Summary
 
 These different charts showcase the variablity of interest across the top 10 countries that are searching "Generative AI" in Google over the past five years. 
 The line card show the trend during the course of this time period, illustrating the most widely searched times and fluctuations. The Heat Map showcases the intensity by color. For further analysis, one can query locally within one of the countries to further see where the concentration of those searching lie.  Pie Chart displays the proportion visually of each country compared to others. 
@@ -46,10 +45,21 @@ These insights can help marketers, educators, and businesses understand where th
 ![Screenshot 2025-02-13 at 3 39 04 PM](https://github.com/user-attachments/assets/4e297780-f8dc-4d4b-a2c5-9cc9a42564d0)
 
 
+
+
+
 ![Screenshot 2025-02-13 at 3 40 23 PM](https://github.com/user-attachments/assets/2d0af070-40bc-41da-8d5f-12d2f221a33b)
 
 
+
+
+
+
 ![Screenshot 2025-02-13 at 3 48 25 PM](https://github.com/user-attachments/assets/fa234817-0371-4de3-9652-9520c84a2812)
+
+
+
+
 
 
 ![Screenshot 2025-02-13 at 3 59 39 PM](https://github.com/user-attachments/assets/b91973cd-39d6-45e7-9651-e393e7234a41)
