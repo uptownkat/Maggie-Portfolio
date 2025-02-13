@@ -1,5 +1,5 @@
 
-![Copy of bbbcb c (650 x 650 px) (650 x 300 px) ![Screenshot 2025-02-13 at 3 42 01 PM](https://github.com/user-attachments/assets/2f53f61e-673d-4ba6-9a1b-2e69f2e263cd)
+![Screenshot 2025-02-13 at 3 42 01 PM](https://github.com/user-attachments/assets/2f53f61e-673d-4ba6-9a1b-2e69f2e263cd)
  
 
 ### Google Search Analysis
