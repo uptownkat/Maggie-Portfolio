@@ -34,6 +34,7 @@ In this exercise, I analyzed the global search interest of the topic "Generative
 - Pie Chart
   
 
+![Screenshot 2025-02-13 at 3 59 39 PM](https://github.com/user-attachments/assets/20095082-dbcb-4f6b-b3db-8c65f708cb36)
 
 Summary
 
@@ -42,10 +43,15 @@ The line card show the trend during the course of this time period, illustrating
 These insights can help marketers, educators, and businesses understand where these two subjects are trending globally, allowing for targeted content strategies and localized outreach.
 
 
-[Google Seatch](https://www.kaggle.com/code/maggieakarn/google-search-analysis))
-![Screenshot 2025-02-13 at 3 39 10 PM](https://github.com/user-attachments/assets/7950be7c-625a-4ea0-a5c9-7144201b5d8e)
+![Screenshot 2025-02-13 at 3 39 04 PM](https://github.com/user-attachments/assets/4e297780-f8dc-4d4b-a2c5-9cc9a42564d0)
 
-![Screenshot 2025-02-13 at 3 40 23 PM](https://github.com/user-attachments/assets/fe857796-4d9f-47dd-9491-22dcaeca5ceb
-![Screenshot 2025-02-13 at 3 59 39 PM](https://github.com/user-attachments/assets/e62bda6f-c8fd-4783-9bce-fa941717c95b)
 
-v
+![Screenshot 2025-02-13 at 3 40 23 PM](https://github.com/user-attachments/assets/2d0af070-40bc-41da-8d5f-12d2f221a33b)
+
+
+![Screenshot 2025-02-13 at 3 48 25 PM](https://github.com/user-attachments/assets/fa234817-0371-4de3-9652-9520c84a2812)
+
+
+![Screenshot 2025-02-13 at 3 59 39 PM](https://github.com/user-attachments/assets/b91973cd-39d6-45e7-9651-e393e7234a41)
+ 
+ 
