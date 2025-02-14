@@ -6,43 +6,43 @@
 
 ### Google Trends Analysis: Generative AI Interest by Country
 
-In this exercise, I analyzed the highest ranking countries with interest in the topic "Generative AI" based on google searches over the past 5 year time frame. The necessary libraries used to pull and plot the data included Google Trends API (Pytrends), pandas, matplotlib, seaborn. Search volume were defined with ranges from 0 to 100, where 100 represents the peak interest for the terms. 4 different visuals built to showcase these rankings and trends over time.
+In this analysis, I examined the top-ranking countries with the highest interest in the topic "Generative AI" based on Google search trends over the past five years. The data was retrieved using the Google Trends API (Pytrends) and visualized with pandas, matplotlib, and seaborn.
 
+Search interest is measured on a scale from 0 to 100, where 100 represents peak interest for the term. To illustrate global trends and rankings, I created four different visualizations.
 
 
 #### Libraries
+![Screenshot 2025-02-14 at 12 34 33 AM](https://github.com/user-attachments/assets/86614072-90b3-48f5-a8f2-7c39fa9157ed)
 
-- import pandas as pd
-- import matplotlib.pyplot as plt
-- import seaborn as sns
-- from pytrends.request import TrendReq
  
 
 #### Python Analysis & Visualization
 
 [Pytrends](google-search-analysis.ipynb)
 
-- Bar Chart
-- Line Chart
-- Heat Map
-- Pie Chart
+- Bar Chart– Displays country-wise rankings based on search interest.
+- Line Chart– Shows the global trend over the past five years.
+- Heat Map– Highlights the intensity of interest across different countries.
+- Pie Chart – Compares the search volume distribution among the top five countries.
+
   
 
 
-#### Summary
+#### Summary of Findings
 
-Singapore ranked # 1 amongst all countries worldwide in their interest in "Generative AI" based on their reported google search metrics. Followed by China, Hong Kong, India, and South Korea. United States ranking 7th.
+- Singapore ranked #1 globally in search interest for "Generative AI," followed by China, Hong Kong, India, and South Korea. The United States ranked 7th.Singapore ranked # 1 amongst all countries worldwide in their interest in "Generative AI" based on their reported google search metrics. Followed by China, Hong Kong, India, and South Korea. United States ranking 7th.
 
+- The line chart illustrates that interest in Generative AI was minimal before early 2023. However, there was a sharp increase in searches in 2023, followed by a steep decline mid-2023, and a subsequent rebound into 2024. 
 
-The line chart shows the trend during the course of five years as a combined number of all countries. According to this visual, the topic "Generative AI" was nearly non-existent in google search queries prior to the beginning of 2023 when it made it's greatest jump. Betwen mid 20023 to 2024 there was a steep decline and then a rebound of search queries later into 2024.   
+- The heat map visually represents search intensity, revealing that the strongest interest comes from Asia. Further analysis can be conducted to explore regional trends within specific countries. 
 
-Further research can be explored as to the catalyst of the onset of interest in Generative AI in 2023 as well as the flucations thereafter. The Heat Map showcases the intensity by color for each of the top countries. For further analysis, one can query locally within one of the countries to further see where the concentration of those searching lie.  
+- The pie chart focuses on the top five countries, all of which are in Asia, demonstrating the region's significant role in driving interest. 
 
-Pie Charts are used to display each country's composition against the other as well as the category as a whole. I included only the top 5 countries in this chart, which are all from Asia.   
-
-These insights can help one understand how this subject is trending globally and explore further to learn where specifically, what related topics, who is searching, and more.
-
-
+#### Next Steps for Further Analysis
+- Investigate key factors that triggered the surge in 2023 and the subsequent fluctuations.
+- Explore related search topics to identify common themes and evolving trends.
+- Conduct regional deep dives to determine where within each country the highest search activity is concentrated.
+ 
 ![Screenshot 2025-02-14 at 12 34 41 AM](https://github.com/user-attachments/assets/7c125e97-ac83-4ec1-ad01-11379af5ae3b)
 
 
