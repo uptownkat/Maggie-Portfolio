@@ -12,9 +12,9 @@ Search interest is measured on a scale from 0 to 100, where 100 represents peak 
 
 
 #### Libraries
-![Screenshot 2025-02-14 at 12 34 33 AM](https://github.com/user-attachments/assets/86614072-90b3-48f5-a8f2-7c39fa9157ed)
-
  
+![Screenshot 2025-02-14 at 2 55 38 PM](https://github.com/user-attachments/assets/77292e49-b9cd-4f99-9617-f7658839d231)
+
 
 #### Python Analysis & Visualization
 
