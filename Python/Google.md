@@ -30,7 +30,7 @@ Search interest is measured on a scale from 0 to 100, where 100 represents peak 
 
 #### Summary of Findings
 
-- Singapore ranked #1 globally in search interest for "Generative AI," followed by China, Hong Kong, India, and South Korea. The United States ranked 7th.Singapore ranked # 1 amongst all countries worldwide in their interest in "Generative AI" based on their reported google search metrics. Followed by China, Hong Kong, India, and South Korea. United States ranking 7th.
+- Singapore ranked #1 globally in search interest for "Generative AI," followed by China, Hong Kong, India, and South Korea. The United States ranked 7th.
 
 - The line chart illustrates that interest in Generative AI was minimal before early 2023. However, there was a sharp increase in searches in 2023, followed by a steep decline mid-2023, and a subsequent rebound into 2024. 
 
