@@ -20,7 +20,7 @@ In this exercise, I analyzed the interest of the topic "Generative AI" worldwide
 
 #### Python Analysis & Visualization
 
-[Pytrends](https://www.kaggle.com/code/maggieakarn/google-search-analysis)
+[Pytrends](Python/google-search-analysis.ipynb)
 
 - Bar Chart
 - Line Chart
