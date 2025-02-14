@@ -6,7 +6,7 @@
 
 ### Google Trends Analysis: Generative AI Interest by Country
 
-In this exercise, I analyzed the interest of the topic "Generative AI" worldwide amongst the top 10 countries where it was widely searched on google over the past 5 year time frame. The necessary libraries used to pull and plot the data included Google Trends API (Pytrends), pandas, matplotlib, seaborn. Search volume were defined with ranges from 0 to 100, where 100 represents the peak interest for the terms. 4 different visuals built to showcase these rankings and trends over time.
+In this exercise, I analyzed the highest ranking countries with interest in the topic "Generative AI" based on google searches over the past 5 year time frame. The necessary libraries used to pull and plot the data included Google Trends API (Pytrends), pandas, matplotlib, seaborn. Search volume were defined with ranges from 0 to 100, where 100 represents the peak interest for the terms. 4 different visuals built to showcase these rankings and trends over time.
 
 
 
