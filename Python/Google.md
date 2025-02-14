@@ -14,7 +14,7 @@ In this exercise, I analyzed the interest of the topic "Generative AI" worldwide
 
 - import pandas as pd
 - import matplotlib.pyplot as plt
-= import seaborn as sns
+- import seaborn as sns
 - from pytrends.request import TrendReq
  
 
