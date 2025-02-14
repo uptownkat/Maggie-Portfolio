@@ -10,10 +10,6 @@ In this exercise, I analyzed the global search interest of the topic "Generative
 
 
 
-#### Connect to Google API
-
-- !pip install pytrends
-
 #### Import Libraries
 
 - import pandas as pd
@@ -21,12 +17,10 @@ In this exercise, I analyzed the global search interest of the topic "Generative
 - import matplotlib.pyplot as plt
 - trends = TrendReq()
  
-#### Data
 
-![Screenshot 2025-02-13 at 4 32 21 PM](https://github.com/user-attachments/assets/a9caac3a-383e-4df7-a51d-de980e684e44)
+#### Python Analysis & Visualization
 
-
-#### Visualization
+[Pytrends](https://www.kaggle.com/code/maggieakarn/google-search-analysis)
 
 - Bar Chart
 - Line Chart
@@ -42,26 +36,19 @@ The line card show the trend during the course of this time period, illustrating
 These insights can help marketers, educators, and businesses understand where these two subjects are trending globally, allowing for targeted content strategies and localized outreach.
 
 
-![Screenshot 2025-02-13 at 3 39 04 PM](https://github.com/user-attachments/assets/4e297780-f8dc-4d4b-a2c5-9cc9a42564d0)
+![Screenshot 2025-02-14 at 12 34 41 AM](https://github.com/user-attachments/assets/7c125e97-ac83-4ec1-ad01-11379af5ae3b)
 
 
 
 
-
-![Screenshot 2025-02-13 at 3 40 23 PM](https://github.com/user-attachments/assets/2d0af070-40bc-41da-8d5f-12d2f221a33b)
-
+![Screenshot 2025-02-14 at 12 34 33 AM](https://github.com/user-attachments/assets/9ab37052-b142-480c-9a96-700e52e32479)
 
 
 
 
-
-![Screenshot 2025-02-13 at 3 48 25 PM](https://github.com/user-attachments/assets/fa234817-0371-4de3-9652-9520c84a2812)
-
+![Screenshot 2025-02-14 at 12 34 22 AM](https://github.com/user-attachments/assets/fe2ebef0-f57c-4673-91cb-5afb6702d421)
 
 
 
 
-
-![Screenshot 2025-02-13 at 3 59 39 PM](https://github.com/user-attachments/assets/b91973cd-39d6-45e7-9651-e393e7234a41)
- 
- 
+ ![Screenshot 2025-02-14 at 12 34 08 AM](https://github.com/user-attachments/assets/ca0f2dd8-db04-46d1-a075-ebc6775618dd)
