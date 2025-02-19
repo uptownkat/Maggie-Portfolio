@@ -35,7 +35,7 @@ In this project, I analyzed a large telecom dataset containing customer account 
 - Usage Patterns: Monthly Charges, Downloads & Additional Fees
 
 
-#### Visualizations:
+#### Visualizations 
  
 - KPI Card (key churn statistics)
 - Bar Chart (churn distribution)
@@ -46,53 +46,53 @@ In this project, I analyzed a large telecom dataset containing customer account 
 - Line and Clustered Column Chart (service calls & churn)
 - Slicers (Dynamic filters for deeper insights)
 
-#### Dashboards
+#### Dashboards 
 
-[Power BI]
+[Power BI](Churn Performance Analysis.pbix)
 
 This report highlights key drivers of churn amongst these telecom account holders emphasizing service issues, contract type, and pricing concerns as major factors. 
 
-### Churn Rate:
+**Churn Rate** 
 
 - Overall Churn Rate: 26.86% (1,796 churned customers)
   
-### Demographics & Churn:
+**Demographics & Churn**
 - Churn rates are similar across genders.
 - The 65+ age group has the highest churn rate (38%+).
 
-### Geographic Insights:
+**Geographic Insights**
 - California has the highest churn rate (63.24%).
 - West Virginia has the most total churned customers.
 
-### Contract Type & Churn Behavior:
+**Contract Type & Churn Behavior**
 - Month-to-month contracts have the highest churn rate, whereas annual contract holders churn less.
 - Most churn occurs within the first few months of service.
 
-### Customer Service Impact:
+**Customer Service Impact**
 - Churned customers make more service calls (avg. 2.40 calls) compared to active customers (0.37 calls).
 - Primary churn reasons: Competitor offerings, pricing dissatisfaction, and service quality.
 
-### Plan Type & Churn:
+**Plan Type & Churn**
 - Limited data plan holders churn more than those on unlimited plans.
 - Group plan members are less likely to churn compared to individual account holders.
 
-### Financial & Payment Insights:
+**Financial & Payment Insights**
 - Churned customers incur higher additional charges.
 - Direct debit customers have the highest churn rate.
 - Monthly data downloads do not significantly impact churn
 
 #### Recommendations
 
-###  Reduce Month-to-Month Churn:
+**Reduce Month-to-Month Churn**
 
 Since month-to-month contract holders churn the most (especially seniors 65+), telecom providers should offer incentives for annual memberships to encourage retention. Introduce discounts for long-term commitments and targeted loyalty offers for older customers.
 
-### Address Pricing Concerns:
+**Address Pricing Concerns**
 
 Competitor pricing is a major reason for churn. Offering competitive price-matching or bundled plans could reduce customer migration.
 Encourage Unlimited Plans by emphasizing savings on additional charges. 
 
-### Improve Customer Service Experience:
+**Improve Customer Service Experience**
 
 Since frequent service calls correlate with churn, implementing proactive support, self-service options, and customer education could improve satisfaction.
 Analyze call trends to identify recurring service issues and improve resolution times.
