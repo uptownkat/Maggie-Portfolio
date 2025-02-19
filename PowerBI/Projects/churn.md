@@ -10,10 +10,10 @@ In this project, I analyzed a large telecom dataset containing customer account 
 
 ### Data
 
-- [Telecom Dataset](https://www.kaggle.com/datasets/maggieakarn/telecom-dataset-measure-churn/data)
-- One table (17 columns, 6687 rows)
+[Telecom Dataset](https://www.kaggle.com/datasets/maggieakarn/telecom-dataset-measure-churn/data)
+One table (17 columns, 6687 rows)
   
-- **Key fields:**
+**Key fields:**
 - Churn Label (Indicates whether the customer left)
 - Account Length (Duration of service)
 - Call Activity (# of local and international calls)
