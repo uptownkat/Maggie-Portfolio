@@ -51,7 +51,7 @@ One table (17 columns, 6687 rows)
 
 This report highlights key drivers of churn amongst these telecom account holders emphasizing service issues, contract type, and pricing concerns as major factors. 
 
-- [Power BI](Churn_Performance_Analysis.pbix)
+[Power BI](Churn_Performance_Analysis.pbix)
   
 **Churn Rate:** 
 - Overall Churn Rate: 26.86% (1,796 churned customers)
