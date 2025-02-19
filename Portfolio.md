@@ -12,7 +12,7 @@ These projects highlight not only my technical skills but also my passion for ex
 
 
 ### 🔹 Diagnostic Analysis  
-- [Telecom Churn Analysis (Power BI)](PowerBI/Projects/Churn_Performance_Analysis.pbix)
+- [Telecom Churn Analysis (Power BI)](PowerBI/Projects/churn.md)
 - [Hospital Efficiency Project (SQL)](SQL/Hospital/README.md)
     
 ### 🔹 Predictive Analysis  
