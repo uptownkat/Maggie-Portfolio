@@ -98,11 +98,15 @@ Since frequent service calls correlate with churn, implementing proactive suppor
 Analyze call trends to identify recurring service issues and improve resolution times.
 
 By leveraging these insights, telecom companies can lower churn rates, improve customer retention, and optimize pricing strategies.
-Recommendations  
+  
 
- 
-![5](https://github.com/user-attachments/assets/c3815295-472d-45f1-ad33-330e6a4bc940)
-![4](https://github.com/user-attachments/assets/17d9673f-be6d-40fc-91c8-56f7f08c8db5)
-![3](https://github.com/user-attachments/assets/b9d59bcf-2609-43aa-8bbe-e46226129dbe)
-![2](https://github.com/user-attachments/assets/29a1faa7-fe7a-4866-82c0-3867c7ed32bb)
 ![1](https://github.com/user-attachments/assets/97fe5127-f34b-407d-acc8-7f40e762d5f7)
+
+![2](https://github.com/user-attachments/assets/29a1faa7-fe7a-4866-82c0-3867c7ed32bb)
+
+![3](https://github.com/user-attachments/assets/b9d59bcf-2609-43aa-8bbe-e46226129dbe)
+
+![4](https://github.com/user-attachments/assets/17d9673f-be6d-40fc-91c8-56f7f08c8db5)
+
+![5](https://github.com/user-attachments/assets/c3815295-472d-45f1-ad33-330e6a4bc940)
+
