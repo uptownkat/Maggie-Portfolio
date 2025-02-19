@@ -10,16 +10,11 @@ Welcome to my data analytics portfolio. Here, I showcase my expertise in SQL, Py
 
 These projects highlight not only my technical skills but also my passion for exploring data, uncovering insights, and solving complex problems. I am especially driven by the power of data storytelling—transforming raw information into impactful visualizations that inform and inspire.
 
-### 🔹 Descriptive Analysis  
-
-- [Google Search Analysis (Python)](Python/Google.md)
-- [Confections Sales Report (Power BI)](PowerBI/Projects/confections.md)
-- [LEGO Report (Python)](Python/Lego/README.md)
 
 ### 🔹 Diagnostic Analysis  
+- [Telecom Churn Analysis (Power BI)](PowerBI/Projects/Churn_Performance_Analysis.pbix)
 - [Hospital Efficiency Project (SQL)](SQL/Hospital/README.md)
     
-
 ### 🔹 Predictive Analysis  
 - [Sales Pipeline Analysis (Quicksight)](QuickSight/Projects/Sales.md)
 - [Edtech Retention/Churn Analysis (Power BI)](PowerBI/Projects/connect-ED.md) 
@@ -28,7 +23,10 @@ These projects highlight not only my technical skills but also my passion for ex
 - [CPG e-Commerce Report (Excel)](Excel/Projects/README.cerave.md)
 - [Retail Sales Performance Report (Excel)](Excel/Projects/README.superstore.md)  
 
-
+### 🔹 Descriptive Analysis  
+- [Google Search Analysis (Python)](Python/Google.md)
+- [Confections Sales Report (Power BI)](PowerBI/Projects/confections.md)
+- [LEGO Report (Python)](Python/Lego/README.md)
  
 ### Contact
 [Resumé](CV.md) | [LinkedIn](https://www.linkedin.com/in/maggiearhee212/) | [Portfolio](https://github.com/uptownkat/Maggie-Portfolio) 
