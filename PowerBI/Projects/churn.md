@@ -46,9 +46,9 @@ In this project, I analyzed a large telecom dataset containing customer account 
 - Line and Clustered Column Chart (service calls & churn)
 - Slicers (Dynamic filters for deeper insights)
 
-#### Dashboards 
-
-[Power BI](Churn Performance Analysis.pbix)
+ 
+#### Report
+[Power BI](Projects/Churn Performance Analysis.pbix)
 
 This report highlights key drivers of churn amongst these telecom account holders emphasizing service issues, contract type, and pricing concerns as major factors. 
 
