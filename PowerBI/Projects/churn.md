@@ -4,11 +4,11 @@
 
 ## Telecom Churn Analysis (Microsoft Power BI)
 
-#### Overview
+### Overview
 
 In this project, I analyzed a large telecom dataset containing customer account details, including those who terminated their plans. The dataset includes information on charges, additional fees, length of service, plan types, and more. The objective was to determine the churn rate and identify key factors contributing to customer churn. Additionally, I provided recommendations to minimize churn and increase retention.
 
-#### Data
+### Data
 
 [Telecom Dataset](https://www.kaggle.com/datasets/maggieakarn/telecom-dataset-measure-churn/data)
 - One table (17 columns, 6687 rows)
@@ -24,7 +24,7 @@ In this project, I analyzed a large telecom dataset containing customer account 
 
  
 
-#### Analysis
+### Analysis
 
 - Churn Rate 
 - Demographic profile and churn
@@ -35,7 +35,7 @@ In this project, I analyzed a large telecom dataset containing customer account 
 - Usage Patterns: Monthly Charges, Downloads & Additional Fees
 
 
-#### Visualizations 
+### Visualizations 
  
 - KPI Card (key churn statistics)
 - Bar Chart (churn distribution)
@@ -47,8 +47,9 @@ In this project, I analyzed a large telecom dataset containing customer account 
 - Slicers (Dynamic filters for deeper insights)
 
  
-#### Report
- [Power BI](Churn_Performance_Analysis.pbix)
+### Dashboards
+
+[Power BI](Churn_Performance_Analysis.pbix)
 
 This report highlights key drivers of churn amongst these telecom account holders emphasizing service issues, contract type, and pricing concerns as major factors. 
 
@@ -81,19 +82,16 @@ This report highlights key drivers of churn amongst these telecom account holder
 - Direct debit customers have the highest churn rate.
 - Monthly data downloads do not significantly impact churn
 
-#### Recommendations
+### Recommendations
 
 **Reduce Month-to-Month Churn**
-
 Since month-to-month contract holders churn the most (especially seniors 65+), telecom providers should offer incentives for annual memberships to encourage retention. Introduce discounts for long-term commitments and targeted loyalty offers for older customers.
 
 **Address Pricing Concerns**
-
 Competitor pricing is a major reason for churn. Offering competitive price-matching or bundled plans could reduce customer migration.
 Encourage Unlimited Plans by emphasizing savings on additional charges. 
 
 **Improve Customer Service Experience**
-
 Since frequent service calls correlate with churn, implementing proactive support, self-service options, and customer education could improve satisfaction.
 Analyze call trends to identify recurring service issues and improve resolution times.
 
