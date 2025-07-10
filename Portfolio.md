@@ -6,7 +6,7 @@
 
 ## Maggie Rhee – Data Analytics Portfolio  
 
-Welcome to my data analytics portfolio. Here, I showcase my expertise in SQL, Python, Power BI, Tableau, and AWS QuickSight. This portfolio includes projects spanning different types of analytics, some of which I completed during my training with Syntax Technologies, while others were self-initiated. 
+Thank you for visiting. This portfolio showcases my expertise in SQL, Python, Power BI, Tableau, and AWS QuickSight, demonstrated through a variety of analytics projects. These include both hands-on work completed during formal training and independent projects I’ve pursued to sharpen my skills and explore real-world applications.
 
 These projects highlight not only my technical skills but also my passion for exploring data, uncovering insights, and solving complex problems. I am especially driven by the power of data storytelling—transforming raw information into impactful visualizations that inform and inspire.
 
