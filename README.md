@@ -1,5 +1,9 @@
+# Maggie Rhee — Professional Portfolio
 
+Welcome to my portfolio showcasing selected work across data analytics, marketing, communications, and digital strategy.
 
-Here is a link to my portfolio.
+## 📊 Data Analytics
+[View Data Analytics Portfolio](Portfolio.md)
 
-[Data Analytics Portfolio](Portfolio.md)
+## 📣 Marketing & Communications
+[View Marketing & Communications Portfolio](Marketing/README.md)
