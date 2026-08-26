@@ -19,6 +19,8 @@ connect-ED is a global English-language learning platform designed to help learn
 
 Designed the connect-ED website to communicate the platform's value proposition, learning approach, and emphasis on building English fluency through global connections.
 
+![connect-ED Website](connect-ED-website.png)
+
 [Visit the connect-ED Website](https://www.connect-ed.app/)
 
 ## Marketing & Product Strategy
