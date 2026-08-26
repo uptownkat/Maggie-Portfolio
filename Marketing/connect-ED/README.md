@@ -32,6 +32,22 @@ Developed marketing and presentation materials communicating the market opportun
 
 [View Full Presentation](Final%20GSV-compressed.pdf)
 
+
+## Targeted & International Marketing Communications
+
+Developed audience-specific and multilingual marketing collateral to support connect-ED's outreach to international universities and specialized student communities. Materials were adapted for specific academic audiences and global markets while maintaining consistent brand positioning and visual identity.
+
+### Global Film Student Network
+
+Created targeted outreach materials for film students focused on building English fluency through industry-specific conversations and international peer connections.
+
+**Available in:** English | Spanish | Portuguese | Korean | Chinese
+
+### Global Media Student Network
+
+Developed specialized marketing collateral for university students in communications, journalism, public relations, advertising, marketing, digital media, and broadcasting.
+
+**Available in:** English | Korean
 ---
 
 [← Back to Marketing & Communications Portfolio](../README.md)
