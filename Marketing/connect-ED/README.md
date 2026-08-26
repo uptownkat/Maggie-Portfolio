@@ -27,9 +27,9 @@ Developed marketing and presentation materials communicating the market opportun
 
 ### Selected Presentation
 
-*Marketing & Product Strategy Deck*
+![connect-ED Marketing & Product Strategy Deck](connect-ED-deck-cover.png)
 
-[View Presentation](connect-ED-Marketing-Deck.pdf)
+[View Full Presentation](Final%20GSV-compressed.pdf)
 
 ---
 
