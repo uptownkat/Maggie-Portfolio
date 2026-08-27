@@ -5,10 +5,7 @@
 
 
 ## Maggie Rhee – Data Analytics Portfolio  
-Here are a few analytics projects to demonstrate my skills in SQL, Python, Power BI, Tableau, and AWS QuickSight. These include both hands-on work completed during formal training and projects I worked on independently to explore real-world applications.
-
-These projects highlight not only my technical skills but also my passion for exploring data, uncovering insights, and solving complex problems. I am especially driven by the power of data storytelling—transforming raw information into impactful visualizations that inform and inspire.
-
+Here are a few analytics projects to demonstrate my skills in SQL, Python, Power BI, Tableau, and AWS QuickSight. These include both hands-on work completed during formal training and projects I worked on independently to explore real-world applications. 
 
 ### 🔹 Diagnostic Analysis  
 - [Telecom Churn Analysis (Power BI)](PowerBI/Projects/churn.md)
