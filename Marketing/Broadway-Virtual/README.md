@@ -40,7 +40,7 @@ The campaign materials communicated the event opportunity, promotional strategy,
 
 [View Full World AIDS Day Presentation](World_Aids_Day.pdf)
 
-### Sponsorship Proposal
+### Corporate Sponsorship Proposal
 
 Developed branded sponsorship materials presenting partnership opportunities and promotional value for a prospective corporate sponsor.
 
@@ -49,6 +49,7 @@ Developed branded sponsorship materials presenting partnership opportunities and
 </p>
 
 [View Full Corporate Sponsorship Proposal](Mastercard.pdf)
+
 ---
 
 [← Back to Marketing & Communications Portfolio](../README.md)
