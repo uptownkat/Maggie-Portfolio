@@ -26,7 +26,7 @@ Developed marketing and sponsorship materials supporting Broadway Virtual's posi
   <img src="Broadway-Virtual-deck-cover.png" width="600">
 </p>
 
-[View Full Broadway Virtual Presentation](Elegies - Broadway Virtual  12120.pdf)
+[View Full Broadway Virtual Presentation](Broadway-Virtual-Presentation.pdf)
 
 ### World AIDS Day — Event & Sponsorship Marketing
 
@@ -40,7 +40,7 @@ The campaign materials communicated the event opportunity, promotional strategy,
 
 [View Full World AIDS Day Presentation](World_Aids_Day.pdf)
 
-### Mastercard Sponsorship Proposal
+### Sponsorship Proposal
 
 Developed branded sponsorship materials presenting partnership opportunities and promotional value for a prospective corporate sponsor.
 
@@ -48,6 +48,7 @@ Developed branded sponsorship materials presenting partnership opportunities and
   <img src="Mastercard_Proposal.png" width="450">
 </p>
 
+[View Full Corporate Sponsorship Proposal](Mastercard.pdf)
 ---
 
 [← Back to Marketing & Communications Portfolio](../README.md)
