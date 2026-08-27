@@ -23,7 +23,27 @@ The sponsorship presentation communicated the event opportunity, promotional str
 
 ## Sponsorship & Marketing Presentation
 
+Developed sponsorship and marketing materials presenting the event opportunity, audience, promotional strategy, partnership opportunities, and sponsor benefits.
+
+<p align="center">
+  <img src="Broadway-Virtual-deck-cover.png" width="600">
+</p>
+
 [View Full Presentation](Broadway-Virtual-Sponsorship-Deck.pdf)
+
+## Selected Sponsorship & Promotional Materials
+
+### Mastercard Sponsorship Proposal
+
+<p align="center">
+  <img src="Mastercard_Proposal.png" width="450">
+</p>
+
+### World AIDS Day Promotion
+
+<p align="center">
+  <img src="World_Aids_Day.png" width="450">
+</p>
 
 ---
 
