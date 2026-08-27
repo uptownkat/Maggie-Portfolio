@@ -42,14 +42,14 @@ Developed audience-specific and multilingual marketing collateral to support con
 Created targeted outreach materials for film students focused on building English fluency through industry-specific conversations and international peer connections.
 
 **Materials:**  
-[English](Global%20Film%20Network.pdf) | [Spanish](Red%20Global%20de%20Estudiantes%20de%20Cine.pdf) | [Portuguese](Rede%20Global%20de%20Estudantes%20de%20Cinema%20.pdf) | [Korean](글로벌%20영화%20학생%20네트워크.pdf) | [Chinese](全球电影学生交流网络.pdf)
+[English](Global%20Film%20Network.png) | [Spanish](Red%20Global%20de%20Estudiantes%20de%20Cine.png) | [Portuguese](Rede%20Global%20de%20Estudantes%20de%20Cinema%20.png) | [Korean](글로벌%20영화%20학생%20네트워크.png) | [Chinese](全球电影学生交流网络.png)
 
-### Global Media Student Network
+### Global Media Student Networ
 
 Developed specialized marketing collateral for university students in communications, journalism, public relations, advertising, marketing, digital media, and broadcasting.
 
 **Materials:**  
-[English](Global%20Media%20Network.pdf) | [Korean](Global%20Media%20Network-%20KR.pdf)
+[English](Global%20Media%20Network.png) | [Korean](Global%20Media%20Network-%20KR.png)
 
 **Available in:** English | Korean
 ---
