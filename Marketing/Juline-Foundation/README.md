@@ -30,18 +30,23 @@ Developed event marketing and promotional materials supporting Juline Foundation
 
 Developed campaign creative and promotional materials for the foundation's annual fundraising event, including event information, ticketing calls to action, fundraising activities, and social promotion.
 
-![Claws for a Cause Event Flyer](Claws-for-a-Cause-Flyer.png)
+<p align="center">
+  <img src="Claws-for-a-Cause-Flyer.png" width="500">
+</p>
 
 **Social & Promotional Creative**
 
-![Claws for a Cause Social Promotion](Crab_Fest.png)
+<p align="center">
+  <img src="Crab_Fest.png" width="500">
+</p>
 
 ### Nutcracker Sweet 2025
 
 Developed promotional creative supporting the Juline Foundation's annual Nutcracker Sweet performance, including event awareness, ticketing, and social promotion.
 
-![Nutcracker Sweet 2025](Nutcracker-Sweet-2025.png)
-
+<p align="center">
+  <img src="Nutcracker-Sweet-2025.png" width="350">
+</p>
 ---
 
 [← Back to Marketing & Communications Portfolio](../README.md)
