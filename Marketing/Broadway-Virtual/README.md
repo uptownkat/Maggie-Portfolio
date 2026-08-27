@@ -31,18 +31,32 @@ Developed sponsorship and marketing materials presenting the event opportunity, 
 
 [View Full Presentation](Broadway-Virtual-Sponsorship-Deck.pdf)
 
-## Selected Sponsorship & Promotional Materials
+## Selected Marketing & Sponsorship Work
+
+### Broadway Virtual — Marketing & Sponsorship Strategy
+
+Developed marketing and sponsorship materials supporting Broadway Virtual's positioning, partnership strategy, and promotional initiatives.
+
+<p align="center">
+  <img src="Broadway-Virtual-deck-cover.png" width="600">
+</p>
+
+[View Full Broadway Virtual Presentation](Elegies - Broadway Virtual  12120.pdf)
+
+### World AIDS Day — Event & Sponsorship Marketing
+
+Developed event marketing and sponsorship materials for Broadway Virtual's World AIDS Day charity production, including event positioning, promotional strategy, partnership opportunities, audience profiling, and sponsor benefits.
+
+<p align="center">
+  <img src="World_Aids_Day.png" width="450">
+</p>
+
+[View Full World AIDS Day Presentation](World_Aids_Day.pdf)
 
 ### Mastercard Sponsorship Proposal
 
 <p align="center">
   <img src="Mastercard_Proposal.png" width="450">
-</p>
-
-### World AIDS Day Promotion
-
-<p align="center">
-  <img src="World_Aids_Day.png" width="450">
 </p>
 
 ---
