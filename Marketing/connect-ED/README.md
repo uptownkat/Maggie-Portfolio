@@ -44,14 +44,14 @@ Created targeted outreach materials for film students focused on building Englis
 **Materials:**  
 [English](Global%20Film%20Network.png) | [Spanish](Red%20Global%20de%20Estudiantes%20de%20Cine.png) | [Portuguese](Rede%20Global%20de%20Estudantes%20de%20Cinema%20.png) | [Korean](글로벌%20영화%20학생%20네트워크.png) | [Chinese](全球电影学生交流网络.png)
 
-### Global Media Student Networ
+### Global Media Student Network
 
 Developed specialized marketing collateral for university students in communications, journalism, public relations, advertising, marketing, digital media, and broadcasting.
 
 **Materials:**  
 [English](Global%20Media%20Network.png) | [Korean](Global%20Media%20Network-%20KR.png)
 
-**Available in:** English | Korean
+ 
 ---
 
 [← Back to Marketing & Communications Portfolio](../README.md)
