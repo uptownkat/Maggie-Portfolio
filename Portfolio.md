@@ -28,6 +28,3 @@ These projects highlight not only my technical skills but also my passion for ex
 - [Confections Sales Report (Power BI)](PowerBI/Projects/confections.md)
 - [LEGO Report (Python)](Python/Lego/README.md)
  
-### Contact
-[Resumé](CV.md) | [LinkedIn](https://www.linkedin.com/in/maggiearhee212/) | [Portfolio](https://github.com/uptownkat/Maggie-Portfolio) 
- 
