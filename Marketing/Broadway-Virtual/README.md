@@ -38,7 +38,7 @@ The campaign materials communicated the event opportunity, promotional strategy,
   <img src="World_Aids_Day.png" width="450">
 </p>
 
-[View Full World AIDS Day Presentation](World-AIDS-Day-Presentation.pdf)
+[View Full World AIDS Day Presentation](World_Aids_Day.pdf)
 
 ### Mastercard Sponsorship Proposal
 
