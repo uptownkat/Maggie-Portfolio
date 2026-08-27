@@ -22,13 +22,25 @@ Designed the Juline Foundation website to communicate the organization's mission
 
 [Visit the Juline Foundation Website](https://www.juline-foundation.org/)
 
-## Event Marketing & Promotion
+## Event Marketing & Social Promotion
 
-Developed promotional communications and marketing materials supporting Juline Foundation events and fundraising initiatives.
+Developed event marketing and promotional materials supporting Juline Foundation fundraising and performing arts initiatives across digital and social channels.
 
-### CrabFest
+### Claws for a Cause — Annual Crab Feed Fundraiser
 
-Created promotional materials supporting CrabFest, a Juline Foundation fundraising event.
+Developed campaign creative and promotional materials for the foundation's annual fundraising event, including event information, ticketing calls to action, fundraising activities, and social promotion.
+
+![Claws for a Cause Event Flyer](Claws-for-a-Cause-Flyer.png)
+
+**Social & Promotional Creative**
+
+![Claws for a Cause Social Promotion](Crab_Fest.png)
+
+### Nutcracker Sweet 2025
+
+Developed promotional creative supporting the Juline Foundation's annual Nutcracker Sweet performance, including event awareness, ticketing, and social promotion.
+
+![Nutcracker Sweet 2025](Nutcracker-Sweet-2025.png)
 
 ---
 
