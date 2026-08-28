@@ -48,7 +48,7 @@ Developed branded sponsorship materials presenting partnership opportunities and
   <img src="Mastercard_Proposal.png" width="450">
 </p>
 
-[View Full Corporate Sponsorship Proposal](Mastercard.pdf)
+[View Full Corporate Sponsorship Proposal](Mastercard_Proposal.pdf)
 
 ---
 
