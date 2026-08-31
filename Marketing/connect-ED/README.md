@@ -28,7 +28,7 @@ Designed the connect-ED website to communicate the platform's value proposition,
 Developed marketing and presentation materials communicating the market opportunity, learner problem, product solution, target audiences, marketing channels, and business strategy.
 
 
-![connect-ED Marketing & Product Strategy Deck](connect-ED-deck-cover.png)
+![connect-ED Marketing & Product Strategy Deck](png)
 
 [View Full Presentation](Final%20GSV-compressed.pdf)
 
